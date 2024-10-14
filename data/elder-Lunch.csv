@@ -1,0 +1,112 @@
+id,category_name,category_id,name,mrn,mrn_full,desc,webtrition_id,sort_order,portion,qty,ingredients,category_id,custom_allergens,calories
+670aca9e2b7b7acd3852bcb1,Kitchen Entree,66e43426c625af07233bfef3,Chicken and Sausage Jambalaya,103330,103330.0,"Chicken, sausage, tomatoes, and rice",,1,1 cup,,"Chicken, Water, Tomatoes, Long Grain White Rice, Andouille Sausage, Onions, Celery, Green Bell Peppers, Tomato paste (tomato paste, salt, citric acid), Cajun Bayou Seasoning, Canola Oil, Chicken Base, Salt, Hot Sauce (vinegar, red pepper, salt), Garlic, Black Pepper, Parsley, Bay Leaf",66e43426c625af07233bfef3,,210
+670aca9e2b7b7acd3852bcbf,Kitchen Entree,66e43426c625af07233bfef3,Potato and Cheddar Pierogi,127582,127582.3,,,2,3 each,,Potato & Cheddar Pierogies,66e43426c625af07233bfef3,,180
+670aca9e2b7b7acd3852bce3,Kitchen Entree,66e43426c625af07233bfef3,White Rice,103814,103814.0,White Rice Cooked with Canola Oil and Salt,,3,1/2 cup,,"Water, Long Grain White Rice, Canola Oil, Salt",66e43426c625af07233bfef3,,120
+670aca9e2b7b7acd3852bee5,Kitchen Sides,66f31ebcc625af00e05442cd,Cauliflower,1376,1376.3,,,1,1/2 cup,,Cauliflower,66f31ebcc625af00e05442cd,,15
+670aca9e2b7b7acd3852bedd,Kitchen Sides,66f31ebcc625af00e05442cd,Fried Okra,103332,103332.0,Crispy okra with cornmeal,,2,1/2 cup,,"Okra, Yellow Cornmeal, Liquid Egg, Whole Milk, Salt, Black Pepper",66f31ebcc625af00e05442cd,,250
+670aca9e2b7b7acd3852bc9b,Flame,66e43426c625af07233bfef4,"Bacon, Egg, Cheese, Waffle Sandwich",4578,4578.3,"Grilled waffle sandwich with bacon, egg and pepper jack",,1,1 sandwich,,"Waffles, Egg, Bacon, Pepper Jack Cheese",66e43426c625af07233bfef4,,370
+670aca9e2b7b7acd3852bcb9,Flame,66e43426c625af07233bfef4,French Fries,8414,8414.0,,,4,1/2 cup,,French Fries,66e43426c625af07233bfef4,,60
+670aca9e2b7b7acd3852bca7,500 Degrees,66e43426c625af07233bfef5,Cheese Pizza,103574,103574.1,Traditional pizza with just pizza sauce and mozzarella cheese,,1,1 slice,,"Pizza Dough, Part Skim Mozzarella Cheese, Crushed tomatoes (unpeeled tomatoes, tomato puree, salt, citric acid), Chopped whole peeled tomatoes (tomatoes, tomato juice, salt, calcium chloride, citric acid), Canola Oil, Salt, Basil, Garlic, Black Pepper",66e43426c625af07233bfef5,,190
+670aca9e2b7b7acd3852bca0,500 Degrees,66e43426c625af07233bfef5,Pepperoni Pizza,103896,103896.0,,,2,1 slice,,"Pizza Dough, Part Skim Mozzarella Cheese, Crushed tomatoes (unpeeled tomatoes, tomato puree, salt, citric acid), Chopped whole peeled tomatoes (tomatoes, tomato juice, salt, calcium chloride, citric acid), Pepperoni-, Canola Oil, Salt, Basil, Garlic, Black Pepper",66e43426c625af07233bfef5,,210
+670aca9e2b7b7acd3852bc8a,500 Degrees,66e43426c625af07233bfef5,Sausage and Egg Breakfast Calzone,11334,11334.0,A Italian Breakfast Savory Treat,,3,1 each,,"Biscuit Dough, Liquid Egg, Cheddar Cheese, Italian Sausage, Canola Oil, Unsalted Butter, Sesame Seeds",66e43426c625af07233bfef5,,770
+670aca9e2b7b7acd3852bcd6,500 Degrees,66e43426c625af07233bfef5,Crushed Red Pepper,63317,63317.0,,,4,1 tsp,,Red Pepper,66e43426c625af07233bfef5,,5
+670aca9e2b7b7acd3852bcd1,500 Degrees,66e43426c625af07233bfef5,Dried Oregano,76771,76771.0,,,5,1 tsp,,Oregano,66e43426c625af07233bfef5,,0
+670aca9e2b7b7acd3852bcde,500 Degrees,66e43426c625af07233bfef5,Grated Parmesan Cheese,62346,62346.0,,,6,1 tsp,,Parmesan Cheese,66e43426c625af07233bfef5,,10
+670aca9e2b7b7acd3852bcf0,Soup,66e43426c625af07233bfef7,Vegetable Beef Soup,5697,5697.0,"With tomatoes, beef, okra and corn, in a light beef broth",,1,1 ladle-6oz,,"Water, Okra, Water, Potatoes, Corn, Green Peas, Diced tomatoes (tomatoes, tomato juice, calcium chloride, citric acid), Beef, Waters, Celery, Elbow Macaroni, Onions, Tomato paste (tomato paste, salt, citric acid), Bacon Base, All Purpose Flour, Bay Leaf",66e43426c625af07233bfef7,,70
+670aca9e2b7b7acd3852bd8d,Soup,66e43426c625af07233bfef7,Vegetable Minestrone Soup,115132,115132.0,,,2,6 ounce,,"Water, Crushed tomatoes (unpeeled tomatoes, tomato puree, salt, citric acid), Kidney Beans (kidney beans, water, sugar, dextrose, salt, calcium chloride, disodium EDTA), Elbow Macaroni, Cabbage, Carrots, Celery, Green Beans, Onions, Potatoes, Tomatoes, Vegetable Base, Spinach, Basil, Canola Oil, Garlic, Salt, Thyme, Fresh Ground Black Pepper, Bay Leaf",66e43426c625af07233bfef7,,80
+670aca9e2b7b7acd3852bccb,Soup,66e43426c625af07233bfef7,"Crackers, Saltine, 2 CT, Zesta",1909,1909.0,,,3,1 each,,"Enriched flour (wheat flour, niacin, reduced iron, vitamin B1 [thiamin mononitrate], vitamin B2 [riboflavin], folic acid), soybean oil (with TBHQ for freshness), salt, corn syrup. Contains 2% or less of baking soda, yeast, soy lecithin.
+Contains: Wheat, Soy. ",66e43426c625af07233bfef7,,25
+670aca9e2b7b7acd3852bd88,Pure Eats,66e43426c625af07233bfef8,Buffalo Chicken Breast,38504,38504.0,,,1,4 ounce,,"Chicken, Buffalo Wing Sauce, Black Pepper",66e43426c625af07233bfef8,,170
+670aca9e2b7b7acd3852bcab,Pure Eats,66e43426c625af07233bfef8,Avoiding Gluten Barilla Penne,50923,50923.10,Simply cooked penne,,2,1 cup,,"Water, Gluten Free Penne Pasta",66e43426c625af07233bfef8,,130
+670aca9e2b7b7acd3852bc91,Pure Eats,66e43426c625af07233bfef8,Marinara Sauce ,103930,103930.0,Garlic Marinara Sauce,,3,1/2 cup,,"Crushed tomatoes (tomatoes, tomato juice, citric acid, calcium chloride), Tomato puree (tomato puree, water, tomato paste, citric acid), Onions, Olive Oil, Salt, Garlic, Basil, Oregano, Red Pepper",66e43426c625af07233bfef8,,30
+670aca9e2b7b7acd3852bceb,Pure Eats,66e43426c625af07233bfef8,Roasted Cauliflower,103917,103917.0,,,4,1/2 cup,,"Cauliflower, Canola Oil, Salt, Black Pepper",66e43426c625af07233bfef8,,50
+670aca9e2b7b7acd3852bcf4,Pure Eats,66e43426c625af07233bfef8,Mixed Melon,5448,5448.0,A combination of seasonal melons,,5,1/2 cup,,"Cantaloupe, Honeydew Melon",66e43426c625af07233bfef8,,30
+670aca9e2b7b7acd3852bcfa,Pure Eats,66e43426c625af07233bfef8,Yukon Potato Salad,34992,34992.1,Creamy potato salad ,,6,1/2 cup,,"Yukon Gold Potatoes, Red Bell Peppers, Corn, Olive Oil, Canola Oil, Salt, Black Pepper, Black Pepper",66e43426c625af07233bfef8,,140
+670aca9e2b7b7acd3852be9c,United Table,66e43426c625af07233bff00,Omelet Bar,128444,128444.0,,,1,1 plate,,Water,66e43426c625af07233bff00,,0
+670aca9e2b7b7acd3852bea8,United Table,66e43426c625af07233bff00,Eggs,73988,73988.0,,,2,3 floz,,Liquid Egg,66e43426c625af07233bff00,,130
+670aca9e2b7b7acd3852bea4,United Table,66e43426c625af07233bff00,Egg Whites,63110,63110.0,two egg whites made-to-order,,3,3 floz,,Liquid Egg White,66e43426c625af07233bff00,,45
+670aca9e2b7b7acd3852beb0,United Table,66e43426c625af07233bff00,Chopped Spinach,47960,47960.3,,,4,1 ounce,,Spinach,66e43426c625af07233bff00,,5
+670aca9e2b7b7acd3852beac,United Table,66e43426c625af07233bff00,Chopped Broccoli ,66238,66238.0,,,5,1 ounce,,Broccoli,66e43426c625af07233bff00,,10
+670aca9e2b7b7acd3852bec1,United Table,66e43426c625af07233bff00,Chopped Tomatoes,47955,47955.6,,,6,1 tbsp,,Tomatoes,66e43426c625af07233bff00,,0
+670aca9e2b7b7acd3852bed3,United Table,66e43426c625af07233bff00, Diced Onions,13404,13404.3,,,7,1 tbsp,,Onions,66e43426c625af07233bff00,,0
+670aca9e2b7b7acd3852bed7,United Table,66e43426c625af07233bff00,Sliced Mushrooms,62338,62338.0,,,8,1 tbsp,,Mushrooms,66e43426c625af07233bff00,,0
+670aca9e2b7b7acd3852bece,United Table,66e43426c625af07233bff00,Chopped Green Bell Pepper,63065,63065.0,,,9,1 tbsp,,Green Bell Peppers,66e43426c625af07233bff00,,0
+670aca9e2b7b7acd3852bec8,United Table,66e43426c625af07233bff00,Sliced Black Olives,46017,46017.8,Sliced Black Olives,,10,1 ounce,,Black Olives,66e43426c625af07233bff00,,35
+670aca9e2b7b7acd3852bea1,United Table,66e43426c625af07233bff00,Pico de Gallo,8087,8087.0,,,11,1 ladle-1oz,,"Tomatoes, Jalapeno, Lime, Onions, Cilantro, Salt",66e43426c625af07233bff00,,5
+670aca9e2b7b7acd3852bec2,United Table,66e43426c625af07233bff00,Shredded Sharp Cheddar Cheese,3664,3664.0,,,12,1 tbsp,,Sharp Cheddar Cheese,66e43426c625af07233bff00,,60
+670aca9e2b7b7acd3852beb9,United Table,66e43426c625af07233bff00,Crumbled Feta Cheese,62345,62345.0,,,13,1 tbsp,,Feta Cheese,66e43426c625af07233bff00,,25
+670aca9e2b7b7acd3852be99,United Table,66e43426c625af07233bff00,Diced Smoked Ham,62288,62288.1,,,14,1 tbsp,,Ham,66e43426c625af07233bff00,,15
+670aca9e2b7b7acd3852beb5,United Table,66e43426c625af07233bff00,Chicken Sausage Patty,143056,143056.0,Fully Cooked Chicken Sausage Patty,,15,1 each,,"Chicken Sausage, Allergen Free Cooking Spray",66e43426c625af07233bff00,,90
+670aca9e2b7b7acd3852bcc6,Bakery & Desserts,66e43426c625af07233bfefa,Oatmeal Raisin Cookies,1102,1102.6,Soft sugar made from ats with raisins and a touch of mollasses,,1,1 each,,Oatmeal Raisin Cookie Dough,66e43426c625af07233bfefa,,120
+670aca9e2b7b7acd3852bd85,Bakery & Desserts,66e43426c625af07233bfefa,M&M Blonde Brownies,4876,4876.7,A golden brownie!,,2,"1/2 2-1/2""x3""",,"Yellow Cake Mix, M&M Candies, Egg Substitute, Butter, Brown Sugar (sugar, cane syrups)",66e43426c625af07233bfefa,,170
+670aca9e2b7b7acd3852bc95,Bakery & Desserts,66e43426c625af07233bfefa,Rice Krispie Treat,102512,102512.0,,,3,"1 2"" x 3""",,"Marshmallows, Rice Krispies Cereal, Butter, Vanilla Extract",66e43426c625af07233bfefa,,190
+670aca9e2b7b7acd3852bd00,Bakery & Desserts,66e43426c625af07233bfefa,Dulce de Leche Cupcakes,141817,141817.0,Soft white cake topped with creamy caramel buttercream,,4,1 each,,"Powdered Sugar, Coconut Milk, Soy Milk, Brown Sugar (sugar, cane syrups), All Purpose Flour, Sugar, Vegan Butter, Canola Oil, Pure Vanilla Extract (Vanilla Bean Extractives, Water, Alcohol), Salt, White Vinegar, Baking Powder",66e43426c625af07233bfefa,,460
+670aca9e2b7b7acd3852bdcb,Composed Salad,66e43426c625af07233bfefc,Black Bean and Corn Salad,11343,11343.4,"A southwest side dish that is rich in flavor with black beans, corn, red peppers, jalapeno and drizzled with a cumin, lime dressing.",,2,1/2 cup,,"Black turtle beans (Prepared Black beans, water, salt and calcium chloride), Tomatoes, Corn, Bell Peppers, Lime, Jalapeno, Canola Oil, Cilantro, Cumin, Salt, Black Pepper",66e43426c625af07233bfefc,,70
+670aca9e2b7b7acd3852bdc7,Composed Salad,66e43426c625af07233bfefc,"Mexican Quinoa Salad, Pumpkin Seeds",60641,60641.0,,,3,1/2 cup,,"Water, Quinoa, Pumpkin Seeds, Red Bell Peppers, Cilantro, Canola Oil, Jalapeno, Garlic, Green Onions, Lime Juice, Cumin, Salt",66e43426c625af07233bfefc,,250
+670aca9e2b7b7acd3852be2e,Deli,66e43426c625af07233bfefe,Thinly Sliced Smoked Ham,14910,14910.0,,,1,4 ounce,,Ham,66e43426c625af07233bfefe,,140
+670aca9e2b7b7acd3852be17,Deli,66e43426c625af07233bfefe,Sliced Genoa Salami,48144,48144.27,,,2,4 ounce,,Genoa Salami,66e43426c625af07233bfefe,,470
+670aca9e2b7b7acd3852be0f,Deli,66e43426c625af07233bfefe,Thinly Sliced Deli Turkey Breast,48144,48144.1,,,3,4 ounce,,Turkey,66e43426c625af07233bfefe,,120
+670aca9e2b7b7acd3852be36,Deli,66e43426c625af07233bfefe,American Cheese Slice,1748,1748.0,,,4,1 slice,,American Cheese,66e43426c625af07233bfefe,,50
+670aca9e2b7b7acd3852be3d,Deli,66e43426c625af07233bfefe,Provolone Cheese,14917,14917.0,,,5,1 slice,,Provolone Cheese,66e43426c625af07233bfefe,,70
+670aca9e2b7b7acd3852be0c,Deli,66e43426c625af07233bfefe,Chicken Salad,6179,6179.0,"Moist chicken salad, in a light dressing",,6,1/2 cup,,"Chicken, Celery, Mayonnaise, Onions, Dijon Mustard, Salt, White Pepper, Parsley",66e43426c625af07233bfefe,,170
+670aca9e2b7b7acd3852bddd,Deli,66e43426c625af07233bfefe,Sriracha Mayo,105428,105428.0,Creamy & Spicy Sriracha Mayonaise,,8,1 tbsp,,"Mayonnaise, Hot Chili Sauce",66e43426c625af07233bfefe,,80
+670aca9e2b7b7acd3852be4e,Deli,66e43426c625af07233bfefe,Pesto Mayonnaise,23112,23112.0,Pesto Mayonnaise,,9,1 tbsp,,"Mayonnaise, Basil Pesto, Salt, Black Pepper",66e43426c625af07233bfefe,,90
+670aca9e2b7b7acd3852bdeb,Deli,66e43426c625af07233bfefe,Chipotle Light Mayonnaise,36079,36079.1,,,10,1 tbsp,,"Light Mayonnaise, Chipotle Peppers, Honey, Cilantro",66e43426c625af07233bfefe,,40
+670aca9e2b7b7acd3852be1a,Deli,66e43426c625af07233bfefe,Lettuce Leaf,14957,14957.0,,,11,1 each,,Lettuce Leaf,66e43426c625af07233bfefe,,0
+670aca9e2b7b7acd3852be15,Deli,66e43426c625af07233bfefe,Sliced Cucumber,68562,68562.0,,,13,1 ounce,,Cucumber,66e43426c625af07233bfefe,,0
+670aca9e2b7b7acd3852be08,Deli,66e43426c625af07233bfefe,Roasted Red Peppers,78631,78631.0,,,14,1/4 cup,,"Roasted peppers (Roasted Peppers, Water, Salt Citric Acid)",66e43426c625af07233bfefe,,10
+670aca9e2b7b7acd3852be31,Deli,66e43426c625af07233bfefe,Sliced Green Bell Pepper,62342,62342.0,,,15,1 ounce,,Green Bell Peppers,66e43426c625af07233bfefe,,5
+670aca9e2b7b7acd3852be23,Deli,66e43426c625af07233bfefe,Sliced Red Onion,14918,14918.0,,,16,1 slice,,Onions,66e43426c625af07233bfefe,,5
+670aca9e2b7b7acd3852be28,Deli,66e43426c625af07233bfefe,Sliced Dill Pickles,46017,46017.14,Sliced Dill Pickles,,17,1 ounce,,Pickles,66e43426c625af07233bfefe,,0
+670aca9e2b7b7acd3852be02,Deli,66e43426c625af07233bfefe,Giardiniera,47957,47957.26,,,18,1 tbsp,,Giardiniera,66e43426c625af07233bfefe,,5
+670aca9e2b7b7acd3852bded,Deli,66e43426c625af07233bfefe,White Bread,62272,62272.0,,,19,1 slice,,White Bread,66e43426c625af07233bfefe,,100
+670aca9e2b7b7acd3852bdd6,Deli,66e43426c625af07233bfefe,Whole Wheat Bread,48199,48199.2,,,20,1 slice,,Whole Wheat Bread,66e43426c625af07233bfefe,,80
+670aca9e2b7b7acd3852bde2,Deli,66e43426c625af07233bfefe,"12"" Spinach Herb Tortilla",63510,63510.0,,,21,1 each,,Spinach Herb Tortilla,66e43426c625af07233bfefe,,290
+670aca9e2b7b7acd3852be47,Deli,66e43426c625af07233bfefe,House Fried Potato Chips ,103601,103601.0,House Made Potato Chips Fried to Perfection,,22,1-1/2 ounce,,"Potato Chips, Salt, Black Pepper",66e43426c625af07233bfefe,,140
+670aca9e2b7b7acd3852bdf2,Deli,66e43426c625af07233bfefe,Old Bay Seasoning,82254,82254.3,,,23,1 tsp,,Old Bay Seasoning,66e43426c625af07233bfefe,,0
+670aca9e2b7b7acd3852bdf8,Deli,66e43426c625af07233bfefe,Lemon Pepper,82254,82254.2,,,24,1 tsp,,Lemon Pepper Seasoning,66e43426c625af07233bfefe,,0
+670aca9e2b7b7acd3852bdfc,Deli,66e43426c625af07233bfefe,Cajun Blackened Seasoning,82254,82254.7,,,25,1 tsp,,Cajun Seasoning,66e43426c625af07233bfefe,,10
+670aca9e2b7b7acd3852bd56,Salad Bar,66e43426c625af07233bfefb,Romaine Blend,57851,57851.0,,,1,1 cup,,Lettuce Blend,66e43426c625af07233bfefb,,10
+670aca9e2b7b7acd3852bd5c,Salad Bar,66e43426c625af07233bfefb,Spring Mix,47795,47795.1,,,2,1 cup,,Spring Lettuce Salad Mix,66e43426c625af07233bfefb,,5
+670aca9e2b7b7acd3852bd70,Salad Bar,66e43426c625af07233bfefb,Hard-Boiled Egg,62326,62326.1,,,3,1 tbsp,,Egg,66e43426c625af07233bfefb,,15
+670aca9e2b7b7acd3852bd10,Salad Bar,66e43426c625af07233bfefb,Sriracha Tofu,114181,114181.1,,,4,4 ounce,,"Tofu, Hot Chili Sauce, Oil",66e43426c625af07233bfefb,,130
+670aca9e2b7b7acd3852bd4c,Salad Bar,66e43426c625af07233bfefb,Sliced Cucumber,68562,68562.0,,,5,1 ounce,,Cucumber,66e43426c625af07233bfefb,,0
+670aca9e2b7b7acd3852bd53,Salad Bar,66e43426c625af07233bfefb,Cherry Tomatoes,62343,62343.0,,,6,1 ounce,,Tomatoes,66e43426c625af07233bfefb,,5
+670aca9e2b7b7acd3852bd09,Salad Bar,66e43426c625af07233bfefb,Chick Peas,64056,64056.0,,,7,1/4 cup,,"Chick peas (Chick Peas, Water, Salt, Mustard, Calcium Chloride, Disodium EDTA)",66e43426c625af07233bfefb,,70
+670aca9e2b7b7acd3852bd15,Salad Bar,66e43426c625af07233bfefb,Diced Red Onion,46017,46017.40,,,9,1/4 cup,,Onions,66e43426c625af07233bfefb,,15
+670aca9e2b7b7acd3852bd19,Salad Bar,66e43426c625af07233bfefb,Sliced Mushrooms,62338,62338.0,,,10,1/4 cup,,Mushrooms,66e43426c625af07233bfefb,,0
+670aca9e2b7b7acd3852bd1f,Salad Bar,66e43426c625af07233bfefb,Edamame,13879,13879.1,Soybeans in the pod,,11,6 ounce,,"Edamame, Salt",66e43426c625af07233bfefb,,110
+670aca9e2b7b7acd3852bd29,Salad Bar,66e43426c625af07233bfefb,Sliced Green Bell Pepper,62342,62342.0,,,13,1/4 cup,,Green Bell Peppers,66e43426c625af07233bfefb,,0
+670aca9e2b7b7acd3852bd2f,Salad Bar,66e43426c625af07233bfefb,Cooked Red Quinoa,103808,103808.0,Cooked Red Quinoa,,14,1/4 cup,,"Water, Red Quinoa",66e43426c625af07233bfefb,,60
+670aca9e2b7b7acd3852bd36,Salad Bar,66e43426c625af07233bfefb,Sliced Radishes,71070,71070.1,,,15,1/4 cup,,Radish,66e43426c625af07233bfefb,,0
+670aca9e2b7b7acd3852bd6b,Salad Bar,66e43426c625af07233bfefb,Shredded Cheddar Cheese,3664,3664.7,,,16,1 tbsp,,Cheddar Cheese,66e43426c625af07233bfefb,,30
+670aca9e2b7b7acd3852bd23,Salad Bar,66e43426c625af07233bfefb,Crumbled Feta Cheese,62345,62345.0,,,17,1 tbsp,,Feta Cheese,66e43426c625af07233bfefb,,25
+670aca9e2b7b7acd3852bd45,Salad Bar,66e43426c625af07233bfefb,1% Low Fat Cottage Cheese,1746,1746.0,,,18,1/4 cup,,1% Cottage Cheese,66e43426c625af07233bfefb,,40
+670aca9e2b7b7acd3852bd3a,Salad Bar,66e43426c625af07233bfefb,Ranch Dressing,104930,104930.0,,,19,2 floz,,"Low Fat Buttermilk, Mayonnaise, Ranch Dressing Mix",66e43426c625af07233bfefb,,220
+670aca9e2b7b7acd3852bd61,Salad Bar,66e43426c625af07233bfefb,Caesar Dressing,44327,44327.0,,,20,1 floz,,Caesar Dressing,66e43426c625af07233bfefb,,150
+670aca9e2b7b7acd3852bd67,Salad Bar,66e43426c625af07233bfefb,Fat Free Italian Dressing,62355,62355.0,,,21,1 floz,,Italian Dressing,66e43426c625af07233bfefb,,15
+670aca9e2b7b7acd3852bd3e,Salad Bar,66e43426c625af07233bfefb,Balsamic Dressing,121568,121568.0,,,22,3 floz,,"Olive Oil, Balsamic Vinegar, Sugar, Dijon Mustard, Hot Sauce (vinegar, red pepper, salt), Salt, Black Pepper",66e43426c625af07233bfefb,,390
+670aca9e2b7b7acd3852bd78,Salad Bar,66e43426c625af07233bfefb,Butternut Squash Hummus,117647,117647.0,,,23,1/4 cup,,"Squash, Garbanzo Beans, Sesame Tahini Paste, Water, Olive Oil, Canola Oil, Lemon Juice, Salt, Cumin, Cinnamon, Paprika (Paprika and Silicon Dioxide), Black Pepper, Cayenne Pepper",66e43426c625af07233bfefb,,80
+670aca9e2b7b7acd3852bd7e,Salad Bar,66e43426c625af07233bfefb,Rosemary Roasted Mushroom,19571,19571.11,Flavorful baby portabella mushrooms with fresh rosemary,,24,1/2 cup,,"Mushrooms, Rosemary, Canola Oil, Cayenne Pepper, Salt, Black Pepper",66e43426c625af07233bfefb,,25
+670aca9e2b7b7acd3852bd81,Salad Bar,66e43426c625af07233bfefb,Wheat Berries,31888,31888.0,Simply cooked wheat berries,,25,1/4 cup,,"Water, Wheat Berries",66e43426c625af07233bfefb,,70
+670aca9e2b7b7acd3852be78,Fruit & Yogurt Bar,66e43426c625af07233bfefd,Low Fat Vanilla Yogurt,4592,4592.2,,,1,1/2 cup,,Low Fat Vanilla Yogurt,66e43426c625af07233bfefd,,110
+670aca9e2b7b7acd3852be7e,Fruit & Yogurt Bar,66e43426c625af07233bfefd,"Yogurt, Strawberry, Lite, Yoplait, 6 oz",2470,2470.0,,,2,1 each,,"Cultured Grade A Nonfat Milk, Strawberries, Water, Modified Corn Starch, Allulose, Kosher Gelatin, Citric Acid, Tricalcium Phosphate, Natural Flavor, Sucralose, Potassium Sorbate Added to Maintain Freshness, Acesulfame Potassium, Red #40, Vitamin A Acetate, Vitamin D3. Contains: Milk. Per General Mills kosher gelatin in Yoplait yogurts produced in the United States is from beef hide.",66e43426c625af07233bfefd,,80
+670aca9e2b7b7acd3852be55,Fruit & Yogurt Bar,66e43426c625af07233bfefd,2% Greek Plain Yogurt,65282,65282.1,,,3,1/2 cup,,Plain Yogurt,66e43426c625af07233bfefd,,90
+670aca9e2b7b7acd3852be8d,Fruit & Yogurt Bar,66e43426c625af07233bfefd,Fresh Watermelon,50952,50952.0,,,4,3/4 cup,,Watermelon,66e43426c625af07233bfefd,,25
+670aca9e2b7b7acd3852be83,Fruit & Yogurt Bar,66e43426c625af07233bfefd,Cubed Cantaloupe,1175,1175.0,,,5,1/4 cup,,Cantaloupe,66e43426c625af07233bfefd,,15
+670aca9e2b7b7acd3852be89,Fruit & Yogurt Bar,66e43426c625af07233bfefd,Cubed Honeydew,1117,1117.0,,,6,1/4 cup,,Honeydew Melon,66e43426c625af07233bfefd,,15
+670aca9e2b7b7acd3852be59,Fruit & Yogurt Bar,66e43426c625af07233bfefd,Banana,40362,40362.0,,,7,1 each,,Banana,66e43426c625af07233bfefd,,110
+670aca9e2b7b7acd3852be95,Fruit & Yogurt Bar,66e43426c625af07233bfefd,Granny Smith Apple,34124,34124.8,,,8,1 each,,Apples,66e43426c625af07233bfefd,,100
+670aca9e2b7b7acd3852be61,Fruit & Yogurt Bar,66e43426c625af07233bfefd,Orange,64062,64062.0,,,9,1 each,,Orange,66e43426c625af07233bfefd,,60
+670aca9e2b7b7acd3852be66,Fruit & Yogurt Bar,66e43426c625af07233bfefd,Red Seedless Grapes,63376,63376.0,,,10,1/4 cup,,Grapes,66e43426c625af07233bfefd,,25
+670aca9e2b7b7acd3852be73,Fruit & Yogurt Bar,66e43426c625af07233bfefd,Oats 'n Honey Granola,63400,63400.1,,,11,3 tbsp,,Granola,66e43426c625af07233bfefd,,60
+670aca9e2b7b7acd3852be6e,Fruit & Yogurt Bar,66e43426c625af07233bfefd,Gala Apple,1638,1638.7,apple,,12,1 each,,Apples,66e43426c625af07233bfefd,,110
+670aca9e2b7b7acd3852bda3,Grill - Available Upon Request,66e43426c625af07233bfeff,Meatless Black Bean Burger,82258,82258.1,,,1,1 each,,Black Bean Burger,66e43426c625af07233bfeff,,160
+670aca9e2b7b7acd3852bd9d,Grill - Available Upon Request,66e43426c625af07233bfeff,Grilled Chicken,102407,102407.0,"Boneless chicken breast, grilled to perfection.",,2,4 ounce,,"Chicken, Canola Oil",66e43426c625af07233bfeff,,140
+670aca9e2b7b7acd3852bd96,Grill - Available Upon Request,66e43426c625af07233bfeff,Turkey Burger (No Bun),5816,5816.21,Seasoned ground turkey,,3,1 each,,Turkey Burger,66e43426c625af07233bfeff,,160
+670aca9e2b7b7acd3852bda1,Grill - Available Upon Request,66e43426c625af07233bfeff,White Hamburger Bun,1646,1646.6,,,4,1 each,,Hamburger Bun,66e43426c625af07233bfeff,,220
+670aca9e2b7b7acd3852bdad,Grill - Available Upon Request,66e43426c625af07233bfeff,Hamburger Patty,1151,1151.9,Ground sirloin patty grilled to perfection ,,5,1 each,,Beef,66e43426c625af07233bfeff,,170
+670aca9e2b7b7acd3852bdb3,Grill - Available Upon Request,66e43426c625af07233bfeff,American Cheese Slice,1748,1748.0,,,6,1 slice,,American Cheese,66e43426c625af07233bfeff,,50
+670aca9e2b7b7acd3852bdb0,Grill - Available Upon Request,66e43426c625af07233bfeff,Sliced Dill Pickles,46017,46017.14,Sliced Dill Pickles,,8,1 ounce,,Pickles,66e43426c625af07233bfeff,,0
+670aca9e2b7b7acd3852bdc4,Grill - Available Upon Request,66e43426c625af07233bfeff,Sliced Red Onion,14918,14918.0,,,9,1 slice,,Onions,66e43426c625af07233bfeff,,5
+670aca9e2b7b7acd3852bdb9,Grill - Available Upon Request,66e43426c625af07233bfeff,Lettuce Leaf,14957,14957.0,,,10,1 each,,Lettuce Leaf,66e43426c625af07233bfeff,,0

@@ -1,0 +1,113 @@
+{
+    "allison": {
+        "id": "5b33ae291178e909d807593d",
+        "periods": [
+            {
+            "id": "66e1fc2de45d43074be3a0e5",
+            "sort_order": 0,
+            "name": "Breakfast"
+        },
+        {
+            "id": "66e1fc2de45d43074be3a0fb",
+            "sort_order": 1,
+            "name": "Lunch"
+        },
+        {
+            "id": "66e1fc2de45d43074be3a111",
+            "sort_order": 2,
+            "name": "Dinner"
+            }
+        ]
+    },
+    "sargent": {
+        "id": "5b33ae291178e909d807593e",
+        "periods": [
+            {
+                "id": "66e97bac351d530685467360",
+                "sort_order": 0,
+                "name": "Breakfast"
+            },
+            {
+                "id": "66e97bac351d53068546737e",
+                "sort_order": 1,
+                "name": "Lunch"
+            },
+            {
+                "id": "66e97bac351d53068546736f",
+                "sort_order": 2,
+                "name": "Dinner"
+            },
+            {
+                "id": "66e97bac351d530685467382",
+                "sort_order": 3,
+                "name": "Every Day"
+            }
+        ]
+    },
+    "plex-east": {
+        "id": "5bae7de3f3eeb60c7d3854ba",
+        "periods": [
+        {
+            "id": "66e99466351d5306ad498440",
+            "sort_order": 0,
+            "name": "Breakfast"
+        },
+        {
+            "id": "66e99466351d5306ad498450",
+            "sort_order": 1,
+            "name": "Lunch"
+        },
+        {
+            "id": "66e99466351d5306ad49845b",
+            "sort_order": 2,
+            "name": "Dinner"
+        },
+        {
+            "id": "66e99466351d5306ad498445",
+            "sort_order": 3,
+            "name": "Everyday"
+            }
+        ]
+    },
+    "plex-west": {
+        "id": "5bae7ee9f3eeb60cb4f8f3af",
+        "periods": [
+            {
+                "id": "66e99466351d5306ad498467",
+                "sort_order": 0,
+                "name": "Lunch"
+            },
+            {
+                "id": "66e99466351d5306ad498461",
+                "sort_order": 1,
+                "name": "Dinner"
+        },
+            {
+                "id": "66e99466351d5306ad49846c",
+                "sort_order": 2,
+                "name": "Everyday"
+            }
+        ]
+    },
+    "elder": {
+        "id": "5d113c924198d409c34fdf5c",
+        "periods": [
+        {
+            "id": "66e43426c625af07233bff01",
+            "sort_order": 1,
+            "name": "Lunch"
+        },
+        {
+            "id": "66e85380351d5306adcbcbcd",
+            "sort_order": 2,
+            "name": "Dinner"
+        },
+        {
+            "id": "66e85380351d5306adcbcbd2",
+            "sort_order": 3,
+            "name": "Everyday"
+            }
+        ]
+    }
+
+}

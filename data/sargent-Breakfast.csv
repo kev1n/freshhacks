@@ -1,0 +1,38 @@
+id,category_name,category_id,name,mrn,mrn_full,desc,webtrition_id,sort_order,portion,qty,ingredients,category_id,custom_allergens,calories
+670aba3a2b7b7acd38b61fbd,Comfort,66e97bac351d53068546735d,Scrambled Eggs,2032,2032.23,,,1,1/2 cup,,"Liquid Egg, Canola Oil",66e97bac351d53068546735d,,200
+670aba3a2b7b7acd38b61fc6,Comfort,66e97bac351d53068546735d,Broccoli and Cheddar Egg Scramble,30880,30880.0,Broccoli and Cheddar Scramble,,2,5-1/2 ounce,,"Egg, Egg, Broccoli, Cheddar Cheese, Oil",66e97bac351d53068546735d,,240
+670aba3a2b7b7acd38b61fb2,Comfort,66e97bac351d53068546735d,Biscuits and Pork Sausage Gravy,3933,3933.7,"Flaky, buttery buttermilk biscuits with pork sausage gravy",,3,1 each,,"Half & Half, Biscuit, Pork Sausage, All Purpose Flour, Canola Oil, Butter, Salt, Black Pepper",66e97bac351d53068546735d,,440
+670aba3a2b7b7acd38b61fd0,Comfort,66e97bac351d53068546735d,Turkey Bacon,8735,8735.0,,,4,3 slice,,Turkey Bacon,66e97bac351d53068546735d,,50
+670aba3a2b7b7acd38b61fb6,Comfort,66e97bac351d53068546735d,Patatas Bravas,58855,58855.6,Fried potatoes with aioli and spicy tomato sauce,,5,1/2 cup,,"Hash Brown Potatoes, Heavy Duty Mayonnaise, Whole peeled tomatoes (tomatoes, tomato juice, salt, calcium chloride, citric acid), Chives, Onions, Olive Oil, Sherry Vinegar, Sugar, Salt, Garlic, Black Pepper, Paprika (Paprika and Silicon Dioxide), Cayenne Pepper, Bay Leaf",66e97bac351d53068546735d,,250
+670aba3a2b7b7acd38b61fd6,Comfort,66e97bac351d53068546735d,Roasted Tomatoes,31169,31169.3,Oven roasted tomatoes with herbs,,6,2 each,,"Tomatoes, Canola Oil, Basil, Garlic, Salt, Black Pepper, Chives",66e97bac351d53068546735d,,35
+670aba3a2b7b7acd38b61fbe,Comfort,66e97bac351d53068546735d,Blueberry Chia Seed Oat Milk Pudding,86573,86573.18,"Chia pudding made with oat milk, blueberries ,  cinnamon, agave, and vanilla",,7,4 ounce,,"Plain Oat Milk, Chia Seeds, Agave Nectar, Blueberries, Vanilla Extract, Cinnamon",66e97bac351d53068546735d,,190
+670aba3a2b7b7acd38b61fcb,Comfort,66e97bac351d53068546735d,Meatless Vegetarian Sausage Patty,69553,69553.0,,,8,1 each,,Meatless Sausage,66e97bac351d53068546735d,,70
+670aba3a2b7b7acd38b61fa7,Rooted,66e97bac351d53068546735c,Vegan Pancakes,616,616.64,,,1,2 each,,"Water, Gluten Allergen Free Pancake and Waffle Mix^, Butter Alternative",66e97bac351d53068546735c,,130
+670aba3a2b7b7acd38b61fad,Rooted,66e97bac351d53068546735c,Cheesy Tofu Fajita Scramble,129565,129565.1,,,3,1 cup,,"Tofu, vegan Mozzarella, Green Bell Peppers, Tomatoes, Soy Sauce, Canola Oil, Green Onions, Garlic, Chili Powder (Chili Pepper, Salt, Cumin, Oregano, Silicon Dioxide, Garlic), Turmeric",66e97bac351d53068546735c,,320
+670aba3a2b7b7acd38b61f9f,Rooted,66e97bac351d53068546735c,Beyond Meat Breakfast Sausage,130680,130680.1,,,4,1 each,,"Meatless Burger, Salt Free 17 Seasoning",66e97bac351d53068546735c,,120
+670aba3a2b7b7acd38b61f50,Bakery-Dessert,66e97bac351d53068546735a,Banana Muffin,103907,103907.0,,,2,1 each,,"Muffin Mix, Banana, Water",66e97bac351d53068546735a,,180
+670aba3a2b7b7acd38b61f4c,Bakery-Dessert,66e97bac351d53068546735a,Pumpkin Bread,156039,156039.0,"Warm spiced dessert bread, flavors of fall",,3,1 slice,,"All Purpose Flour, Pumpkin, Sugar, Banana, Canola Oil, Baking Powder, Cinnamon, Salt, Baking Soda, Ginger (Ginger and Sulfur Dioxide), Nutmeg, Vanilla Extract",66e97bac351d53068546735a,,250
+670aba3a2b7b7acd38b61f54,Omelet,66e97bac351d53068546735b,Omelet Bar,128444,128444.0,,,1,1 plate,,Water,66e97bac351d53068546735b,,0
+670aba3a2b7b7acd38b61f64,Omelet,66e97bac351d53068546735b,Eggs,73988,73988.0,,,2,3 floz,,Liquid Egg,66e97bac351d53068546735b,,130
+670aba3a2b7b7acd38b61f5f,Omelet,66e97bac351d53068546735b,Egg Whites,63110,63110.0,two egg whites made-to-order,,3,3 floz,,Liquid Egg White,66e97bac351d53068546735b,,45
+670aba3a2b7b7acd38b61f76,Omelet,66e97bac351d53068546735b,Chopped Spinach,47960,47960.3,,,4,1 ounce,,Spinach,66e97bac351d53068546735b,,5
+670aba3a2b7b7acd38b61f78,Omelet,66e97bac351d53068546735b,Chopped Broccoli ,66238,66238.0,,,5,1 ounce,,Broccoli,66e97bac351d53068546735b,,10
+670aba3a2b7b7acd38b61f89,Omelet,66e97bac351d53068546735b,Chopped Tomatoes,47955,47955.6,,,6,1 tbsp,,Tomatoes,66e97bac351d53068546735b,,0
+670aba3a2b7b7acd38b61f90,Omelet,66e97bac351d53068546735b, Diced Onions,13404,13404.3,,,7,1 tbsp,,Onions,66e97bac351d53068546735b,,0
+670aba3a2b7b7acd38b61f98,Omelet,66e97bac351d53068546735b,Sliced Mushrooms,62338,62338.0,,,8,1 tbsp,,Mushrooms,66e97bac351d53068546735b,,0
+670aba3a2b7b7acd38b61f9c,Omelet,66e97bac351d53068546735b,Chopped Green Bell Pepper,63065,63065.0,,,9,1 tbsp,,Green Bell Peppers,66e97bac351d53068546735b,,0
+670aba3a2b7b7acd38b61f94,Omelet,66e97bac351d53068546735b,Shredded Sharp Cheddar Cheese,3664,3664.0,,,10,1 tbsp,,Sharp Cheddar Cheese,66e97bac351d53068546735b,,60
+670aba3a2b7b7acd38b61f82,Omelet,66e97bac351d53068546735b,Crumbled Feta Cheese,62345,62345.0,,,11,1 tbsp,,Feta Cheese,66e97bac351d53068546735b,,25
+670aba3a2b7b7acd38b61f5a,Omelet,66e97bac351d53068546735b,Diced Smoked Ham,62288,62288.1,,,12,1 tbsp,,Ham,66e97bac351d53068546735b,,15
+670aba3a2b7b7acd38b61f6e,Omelet,66e97bac351d53068546735b,Pork Sausage Link,1125,1125.7,,,13,1 each,,Pork Sausage,66e97bac351d53068546735b,,130
+670aba3a2b7b7acd38b61f6a,Omelet,66e97bac351d53068546735b,Diced Bacon,14901,14901.0,,,14,1 tbsp,,Bacon,66e97bac351d53068546735b,,45
+670aba3a2b7b7acd38b61fe1,Fruit & Yogurt,66e97bac351d53068546735e,2% Greek Plain Yogurt,65282,65282.1,,,1,1/2 cup,,Plain Yogurt,66e97bac351d53068546735e,,90
+670aba3a2b7b7acd38b61fdc,Fruit & Yogurt,66e97bac351d53068546735e,Low Fat Vanilla Yogurt,4592,4592.2,,,2,1/2 cup,,Low Fat Vanilla Yogurt,66e97bac351d53068546735e,,110
+670aba3a2b7b7acd38b61ff9,Fruit & Yogurt,66e97bac351d53068546735e,Oats 'n Honey Granola,63400,63400.1,,,3,3 tbsp,,Granola,66e97bac351d53068546735e,,60
+670aba3a2b7b7acd38b62006,Fruit & Yogurt,66e97bac351d53068546735e,Sliced Strawberries,4403,4403.0,,,4,3/4 cup,,Strawberries,66e97bac351d53068546735e,,35
+670aba3a2b7b7acd38b61fe9,Fruit & Yogurt,66e97bac351d53068546735e,Cubed Pineapple,31969,31969.0,,,5,1/4 cup,,Pineapple,66e97bac351d53068546735e,,20
+670aba3a2b7b7acd38b62003,Fruit & Yogurt,66e97bac351d53068546735e,Cubed Cantaloupe,1175,1175.0,,,6,1/4 cup,,Cantaloupe,66e97bac351d53068546735e,,15
+670aba3a2b7b7acd38b61ff1,Fruit & Yogurt,66e97bac351d53068546735e,Orange,64062,64062.0,,,11,1 each,,Orange,66e97bac351d53068546735e,,60
+670aba3a2b7b7acd38b62009,Fruit & Yogurt,66e97bac351d53068546735e,Granny Smith Apple,34124,34124.8,,,12,1 each,,Apples,66e97bac351d53068546735e,,100
+670aba3a2b7b7acd38b61fed,Fruit & Yogurt,66e97bac351d53068546735e,Banana,40362,40362.0,,,13,1 each,,Banana,66e97bac351d53068546735e,,110
+670aba3a2b7b7acd38b61ffe,Soup,66e97bac351d53068546735f,Chocolate Oatmeal,8101,8101.0,Chocolate Lover's Oatmeal,,2,1/2 cup,,"Low Fat Chocolate Milk, Oatmeal, Semi Sweet Chocolate, Salt",66e97bac351d53068546735f,,150

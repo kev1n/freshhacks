@@ -1,0 +1,134 @@
+id,category_name,category_id,name,mrn,mrn_full,desc,webtrition_id,sort_order,portion,qty,ingredients,category_id,custom_allergens,calories
+670ab1f42b7b7acd385eab23,Comfort 1,66e1fc2de45d43074be3a101,Chicken Cacciatore,103924,103924.1,"Braised chicken breast in a garlic, and tomato sauce",,1,4 ounce,,"Chicken, Tomatoes, Water, Green Bell Peppers, Onions, Canola Oil, Garlic, Salt, Chicken Base, Basil, Black Pepper, Rosemary, Bay Leaf",66e1fc2de45d43074be3a101,,210
+670ab1f42b7b7acd385eaaaf,Comfort 1,66e1fc2de45d43074be3a101,Cheese Lasagna,15931,15931.14,Classic Lasagna with Ricotta Cheese and Scratch Made Marinara,,3,9 oz portion,,"Part Skim Ricotta Cheese, Crushed tomatoes (tomatoes, tomato juice, citric acid, calcium chloride), Part Skim Mozzarella Cheese, Lasagna, Tomato puree (tomato puree, water, tomato paste, citric acid), Egg, Parmesan Cheese, Onions, Olive Oil, Salt, Garlic, Black Pepper, Basil, Oregano, Red Pepper",66e1fc2de45d43074be3a101,,340
+670ab1f42b7b7acd385eab04,Comfort 1,66e1fc2de45d43074be3a101,Tahini Parmesan Roasted Broccoli,168244,168244.0,Crispy panko and parmesan topped roasted broccoli in a lemon tahini sauce,,4,1/2 cup,,"Broccoli, Sesame Tahini Paste, Panko Bread Crumbs, Parmesan Cheese, Olive Oil, Lemon Juice, Lime, Salt, Red Pepper, Black Pepper",66e1fc2de45d43074be3a101,,340
+670ab1f42b7b7acd385eaaa5,Comfort 2,66e1fc2de45d43074be3a102,Mushroom Pilaf,5461,5461.0,Brown rice with mushrooms,,1,1/2 cup,,"Water, Brown Rice, Mushrooms, Onions, Sunflower Seeds, Celery, Canola Oil, Vegetable Base, Salt, Parsley, Marjoram, Thyme",66e1fc2de45d43074be3a102,,160
+670ab1f42b7b7acd385eab19,Comfort 2,66e1fc2de45d43074be3a102,Steamed Fresh Zucchini,33992,33992.17,Steamed Fresh Zucchini,,2,1 cup,,Zucchini,66e1fc2de45d43074be3a102,,30
+670ab1f42b7b7acd385eaa77,Rooted 1,66e1fc2de45d43074be3a103,"Jerk Marinated Seitan, Pepper Skewer",116696,116696.0,,,1,1 each,,"Seasoned Wheat Gluten Seitan, Green Bell Peppers, Red Bell Peppers, Orange Juice, White Wine Vinegar, Dijon Mustard, Chili Peppers, Oil, Black Pepper, Parsley, Salt, Rosemary, Ground Allspice, Thyme, Basil, Cinnamon",66e1fc2de45d43074be3a103,,130
+670ab1f42b7b7acd385eaa9b,Rooted 1,66e1fc2de45d43074be3a103,Steamed Green Beans,5279,5279.3,Fresh Steamed Green Beans,,2,1/2 cup,,Green Beans,66e1fc2de45d43074be3a103,,30
+670ab1f42b7b7acd385eaaaa,Rooted 1,66e1fc2de45d43074be3a103,Herb Roasted Potato Wedges,103420,103420.0,Red bliss potatoes with fresh herbs and garlic,,3,4 oz portion,,"Potatoes, Canola Oil, Salt, Garlic, Parsley, Basil, Oregano, Thyme, Paprika (Paprika and Silicon Dioxide), Black Pepper",66e1fc2de45d43074be3a103,,150
+670ab1f42b7b7acd385eaab6,Rooted 2,66e1fc2de45d43074be3a104,Root Vegetable Chips,96807,96807.1,"Parsnips, carrots, sweet potatoes and beets fried to perfection",,1,1-1/2 oz portion,,"Sweet Potatoes, Red Beets, Parsnips, Carrots, Salt, Black Pepper",66e1fc2de45d43074be3a104,,250
+670ab1f42b7b7acd385eab0b,Rooted 2,66e1fc2de45d43074be3a104,Vegetable Pasta Salad,118396,118396.0,,,2,1/2 cup,,"Water, Penne, Tomatoes, Balsamic Vinaigrette, Broccoli, Kalamata Olives, Onions, Salt",66e1fc2de45d43074be3a104,,70
+670ab1f42b7b7acd385eab14,Rooted 2,66e1fc2de45d43074be3a104,Colorful Quinoa Salad,9888,9888.6,A Great Looking Salad,,3,1/2 cup,,"Quinoa, Tomato Juice, Waters, Chick peas (Chick Peas, Water, Salt, Mustard, Calcium Chloride, Disodium EDTA), Yellow Bell Peppers, Italian Dressing, Feta Cheese, Cucumber, Green Beans, Bell Peppers, Onions, Vegetable Base, Parsley",66e1fc2de45d43074be3a104,,150
+670ab1f42b7b7acd385eacb8,Fruit & Yogurt,66e1fc2de45d43074be3a10c,Cubed Cantaloupe,1175,1175.0,,,1,2 ounce,,Cantaloupe,66e1fc2de45d43074be3a10c,,20
+670ab1f42b7b7acd385eac9a,Fruit & Yogurt,66e1fc2de45d43074be3a10c,Cubed Pineapple,31969,31969.0,,,2,1/2 cup,,Pineapple,66e1fc2de45d43074be3a10c,,40
+670ab1f42b7b7acd385eacaa,Fruit & Yogurt,66e1fc2de45d43074be3a10c,2% Greek Plain Yogurt,65282,65282.1,,,3,4 ounce,,Plain Yogurt,66e1fc2de45d43074be3a10c,,90
+670ab1f42b7b7acd385eacc6,Fruit & Yogurt,66e1fc2de45d43074be3a10c,Low Fat Vanilla Yogurt,4592,4592.0,,,4,4 ounce,,Low Fat Vanilla Yogurt,66e1fc2de45d43074be3a10c,,70
+670ab1f42b7b7acd385eacbf,Fruit & Yogurt,66e1fc2de45d43074be3a10c,Cubed Honeydew,1117,1117.0,,,5,2 ounce,,Honeydew Melon,66e1fc2de45d43074be3a10c,,20
+670ab1f42b7b7acd385eacb1,Fruit & Yogurt,66e1fc2de45d43074be3a10c,Low Fat Strawberry Yogurt,58254,58254.1,,,6,4 ounce,,Low Fat Strawberry Yogurt,66e1fc2de45d43074be3a10c,,110
+670ab1f42b7b7acd385eac94,Fruit & Yogurt,66e1fc2de45d43074be3a10c,Oats 'n Honey Granola,63400,63400.1,,,7,1 tbsp,,Granola,66e1fc2de45d43074be3a10c,,20
+670ab1f42b7b7acd385ead8d,Fruit & Yogurt,66e1fc2de45d43074be3a10c,Raisins,62348,62348.0,,,8,1 tbsp,,Raisins,66e1fc2de45d43074be3a10c,,25
+670ab1f42b7b7acd385ead69,Fruit & Yogurt,66e1fc2de45d43074be3a10c,Light Cream Cheese,79884,79884.0,,,9,1 tbsp,,Neufchatel Cream Cheese,66e1fc2de45d43074be3a10c,,40
+670ab1f42b7b7acd385eac8e,Fruit & Yogurt,66e1fc2de45d43074be3a10c,Sunflower Spread,63396,63396.1,,,10,1 tsp,,Sunflower Seed Butter,66e1fc2de45d43074be3a10c,,35
+670ab1f42b7b7acd385ead60,Fruit & Yogurt,66e1fc2de45d43074be3a10c,Grape Jelly,63393,63393.0,,,11,1 tbsp,,Grape Jelly,66e1fc2de45d43074be3a10c,,50
+670ab1f42b7b7acd385eaca4,Fruit & Yogurt,66e1fc2de45d43074be3a10c,Butter,63397,63397.1,,,13,1 tbsp,,Butter,66e1fc2de45d43074be3a10c,,100
+670ab1f42b7b7acd385ead5a,Fruit & Yogurt,66e1fc2de45d43074be3a10c,strawberry cream cheese,66197,66197.0,strawberry preserves blended in cream cheese,,14,2 tbsp,,"Cream Cheese, Strawberry Preserves",66e1fc2de45d43074be3a10c,,110
+670ab1f42b7b7acd385eac6d,Pure Eats 1,66e1fc2de45d43074be3a108,Quinoa and ChickpeaTabouleh,10514,10514.9,"quinoa, chickpea, cucumbers, tomatoes, parsley, mint and scallions",,1,1/2 cup,,"Water, Chick peas (Chick Peas, Water, Salt, Mustard, Calcium Chloride, Disodium EDTA), Tomatoes, Red Quinoa, Cucumber, Parsley, Canola Oil, Green Onions, Lemon Juice, Mint, Salt, Black Pepper",66e1fc2de45d43074be3a108,,130
+670ab1f42b7b7acd385eac65,Pure Eats 1,66e1fc2de45d43074be3a108,Strawberries,63378,63378.0,,,2,1/4 cup,,Fresh Strawberries,66e1fc2de45d43074be3a108,,10
+670ab1f42b7b7acd385eac80,Pure Eats 2,66e1fc2de45d43074be3a109,Bone-In Wings,125905,125905.3,,,1,6 each,,Chicken,66e1fc2de45d43074be3a109,,430
+670ab1f42b7b7acd385eabef,Pure Eats 2,66e1fc2de45d43074be3a109,Southwestern Roasted Vegetables,35065,35065.6,,,2,1/2 cup,,"Squash, Zucchini, Carrots, Onions, Canola Oil, Garlic, Chili Powder (Chili Pepper, Salt, Cumin, Oregano, Silicon Dioxide, Garlic), Paprika (Paprika and Silicon Dioxide), Cumin, Black Pepper, Thyme",66e1fc2de45d43074be3a109,,50
+670ab1f42b7b7acd385eac3a,Pure Eats 2,66e1fc2de45d43074be3a109,French Fries,771,771.0,Crisp and golden,,3,1/2 cup,,"Potatoes, Canola Oil, Salt, Parsley",66e1fc2de45d43074be3a109,,120
+670ab1f42b7b7acd385eabe5,Pure Eats 2,66e1fc2de45d43074be3a109,Chimichurri Sauce,105772,105772.3,"Fresh Herbs, Olive Oil and Citrus",,4,2 floz,,"Olive Oil, Lemon Juice, Garlic, Cilantro, Parsley, Oregano, Salt, Black Pepper, Cumin, Red Pepper",66e1fc2de45d43074be3a109,,170
+670ab1f42b7b7acd385eabaf,Flame 1,66e1fc2de45d43074be3a105,Multigrain Bread,48147,48147.0,,,1,2 slice,,Seven Grain Bread,66e1fc2de45d43074be3a105,,280
+670ab1f42b7b7acd385eab82,Flame 1,66e1fc2de45d43074be3a105,Whole Wheat Bread,1390,1390.0,,,2,2 slice,,Whole Wheat Bread,66e1fc2de45d43074be3a105,,140
+670ab1f42b7b7acd385eabcf,Flame 1,66e1fc2de45d43074be3a105,White Bread,1251,1251.0,,,3,2 slice,,White Bread,66e1fc2de45d43074be3a105,,150
+670ab1f42b7b7acd385eaba4,Flame 1,66e1fc2de45d43074be3a105,Udi's White Bread,1390,1390.3,,,4,2 slice,,Udi's Bread,66e1fc2de45d43074be3a105,,300
+670ab1f42b7b7acd385eabd7,Flame 1,66e1fc2de45d43074be3a105,"Turkey Breast, House Roasted",31869,31869.8,,,5,4 oz portion,,Turkey,66e1fc2de45d43074be3a105,,150
+670ab1f42b7b7acd385eab86,Flame 1,66e1fc2de45d43074be3a105,Thinly Sliced Smoked Ham,14910,14910.0,,,6,3 ounce,,Ham,66e1fc2de45d43074be3a105,,110
+670ab1f42b7b7acd385eab95,Flame 1,66e1fc2de45d43074be3a105,Sliced Genoa Salami,48144,48144.27,,,7,2 ounce,,Genoa Salami,66e1fc2de45d43074be3a105,,230
+670ab1f42b7b7acd385eab57,Flame 1,66e1fc2de45d43074be3a105,Tuna Salad,12043,12043.10,Classic tuna salad ,,8,3 ounce,,"Tuna, Onions, Celery, Lemon Juice, Mayonnaise, Salt, Black Pepper, Canola Oil",66e1fc2de45d43074be3a105,,60
+670ab1f42b7b7acd385eabbc,Flame 1,66e1fc2de45d43074be3a105,American Cheese Slice,1748,1748.0,,,9,1 slice,,American Cheese,66e1fc2de45d43074be3a105,,50
+670ab1f42b7b7acd385eabb3,Flame 1,66e1fc2de45d43074be3a105,Cheddar Cheese Slice,43037,43037.1,,,10,1 slice,,Cheddar Cheese,66e1fc2de45d43074be3a105,,60
+670ab1f42b7b7acd385eabba,Flame 1,66e1fc2de45d43074be3a105,Sliced Pepper Jack Cheese,43037,43037.2,,,11,1 ounce,,Pepper Jack Cheese,66e1fc2de45d43074be3a105,,110
+670ab1f42b7b7acd385eabc4,Flame 1,66e1fc2de45d43074be3a105,Sliced Cucumber,68562,68562.0,,,12,1 ounce,,Cucumber,66e1fc2de45d43074be3a105,,0
+670ab1f42b7b7acd385eab90,Flame 1,66e1fc2de45d43074be3a105,Sliced Green Bell Pepper,62342,62342.0,,,13,1 ounce,,Green Bell Peppers,66e1fc2de45d43074be3a105,,5
+670ab1f42b7b7acd385eab9a,Flame 1,66e1fc2de45d43074be3a105,Dill Pickle Slices,63438,63438.0,,,14,2 each,,Pickles,66e1fc2de45d43074be3a105,,0
+670ab1f42b7b7acd385eac60,Flame 1,66e1fc2de45d43074be3a105,Sliced Jalapeno Pepper,13404,13404.4,,,15,1 tbsp,,Jalapeno Peppers,66e1fc2de45d43074be3a105,,0
+670ab1f42b7b7acd385eabde,Flame 1,66e1fc2de45d43074be3a105,Lettuce Leaf,14957,14957.0,,,16,1 each,,Lettuce Leaf,66e1fc2de45d43074be3a105,,0
+670ab1f42b7b7acd385eabd0,Flame 1,66e1fc2de45d43074be3a105,Sliced Tomatoes,47955,47955.4,,,17,2 slice,,Tomatoes,66e1fc2de45d43074be3a105,,0
+670ab1f42b7b7acd385eab75,Flame 2,66e1fc2de45d43074be3a106,Sliced Red Onion,14918,14918.0,,,1,1 slice,,Onions,66e1fc2de45d43074be3a106,,5
+670ab1f42b7b7acd385eab7c,Flame 2,66e1fc2de45d43074be3a106,House Fried Potato Chips ,103601,103601.0,House Made Potato Chips Fried to Perfection,,2,1-1/2 ounce,,"Potato Chips, Salt, Black Pepper",66e1fc2de45d43074be3a106,,140
+670ab1f42b7b7acd385eab41,Flame 2,66e1fc2de45d43074be3a106,Sriracha Mayo,105428,105428.0,Creamy & Spicy Sriracha Mayonaise,,3,1 tbsp,,"Mayonnaise, Hot Chili Sauce",66e1fc2de45d43074be3a106,,80
+670ab1f42b7b7acd385eac56,Flame 2,66e1fc2de45d43074be3a106,Chipotle Aquafaba Vegan Mayonnaise,24346,24346.0,Aquafaba vegan mayonnaise pureed with chipotle and adobo sauce with cilantro and lime juice,,4,2 tbsp,,"Chickpea Brine, Canola Oil, Lime Juice, Chipotle Peppers, Dijon Mustard, Lemon Juice, White Vinegar, Cilantro, Salt, Sugar, Cumin, Garlic",66e1fc2de45d43074be3a106,,60
+670ab1f42b7b7acd385eab3e,Flame 2,66e1fc2de45d43074be3a106,Honey Mustard,19001,19001.1,A creamy mustard sauce,,5,1 tbsp,,"Honey, Dijon Mustard, Red Wine Vinegar, Black Pepper",66e1fc2de45d43074be3a106,,40
+670ab1f42b7b7acd385eab48,Flame 2,66e1fc2de45d43074be3a106,Yellow Mustard,47957,47957.10,,,7,1 tbsp,,Yellow Mustard,66e1fc2de45d43074be3a106,,10
+670ab1f42b7b7acd385eac59,Flame 2,66e1fc2de45d43074be3a106,Pesto Mayonnaise,23112,23112.0,Pesto Mayonnaise,,8,1 tbsp,,"Mayonnaise, Basil Pesto, Salt, Black Pepper",66e1fc2de45d43074be3a106,,90
+670ab1f42b7b7acd385eab50,Flame 2,66e1fc2de45d43074be3a106,Sriracha Hot Chili Sauce,74417,74417.0,,,9,1 tsp,,Hot Chili Sauce,66e1fc2de45d43074be3a106,,0
+670ab1f42b7b7acd385eac78,Flame 3,66e1fc2de45d43074be3a107,Tamarind Chili Jam Turkey Burger,169341,169341.0,"Ginger and garlic seasoned grilled turkey burger with a rich, sweet, and spicy tamarind and pasilla chile jam",,1,1 sandwich,,"Turkey, Potato Roll, Sweet Chili Sauce, Jalapeno Peppers, Mayonnaise, Lime Juice, Cilantro, Canola Oil, Hot Chili Sauce, Chili Paste, Garlic, Salt, Garlic, Lime, Tamarind Pasilla Chile Seasoning, Lemon Juice, Ginger (Ginger and Sulfur Dioxide)",66e1fc2de45d43074be3a107,,520
+670ab1f42b7b7acd385eac88,Flame 3,66e1fc2de45d43074be3a107,Mini Reuben Slider on Pretzel Bun,32523,32523.5,"Shaved Corned Beef, sauerkraut, and russian dressing on pretzel roll",,2,1 sandwich,,"Corned Beef, Pretzel Bun, Saurekraut (Cabbage, water, salt), 1000 Island Dressing, Swiss Cheese, Butter",66e1fc2de45d43074be3a107,,270
+670ab1f42b7b7acd385eac44,Flame 3,66e1fc2de45d43074be3a107,Hamburger on Bun,5305,5305.90,Ground sirloin patty grilled to perfection and served on a white bun.,,3,1 sandwich,,"Beef, Hamburger Bun",66e1fc2de45d43074be3a107,,360
+670ab1f42b7b7acd385eac4d,Flame 3,66e1fc2de45d43074be3a107,Curly-Q French Fries,769,769.0,Crisp and golden,,4,1/2 cup,,"Seasoned French Fries, Salt",66e1fc2de45d43074be3a107,,200
+670ab1f42b7b7acd385eaaeb,Salad Bar 1,66e1fc2de45d43074be3a0fe,Fat Free Italian Dressing,62355,62355.0,,,1,1 floz,,Italian Dressing,66e1fc2de45d43074be3a0fe,,15
+670ab1f42b7b7acd385eaada,Salad Bar 1,66e1fc2de45d43074be3a0fe,Creamy French Salad Dressing,16777,16777.0,,,2,1 ladle-1oz,,French Dressing,66e1fc2de45d43074be3a0fe,,120
+670ab1f42b7b7acd385eaaec,Salad Bar 1,66e1fc2de45d43074be3a0fe,Balsamic Vinaigrette Dressing,16776,16776.0,,,3,1 floz,,Balsamic Vinaigrette,66e1fc2de45d43074be3a0fe,,60
+670ab1f42b7b7acd385eaaf7,Salad Bar 1,66e1fc2de45d43074be3a0fe,Ranch Dressing,104930,104930.0,,,4,2 tbsp,,"Low Fat Buttermilk, Mayonnaise, Ranch Dressing Mix",66e1fc2de45d43074be3a0fe,,110
+670ab1f42b7b7acd385eaaf2,Salad Bar 1,66e1fc2de45d43074be3a0fe,Caesar Dressing,44327,44327.0,,,5,1 floz,,Caesar Dressing,66e1fc2de45d43074be3a0fe,,150
+670ab1f42b7b7acd385eaae3,Salad Bar 1,66e1fc2de45d43074be3a0fe,Blue Cheese Dressing,44317,44317.1,,,6,1 floz,,Blue Cheese Dressing,66e1fc2de45d43074be3a0fe,,160
+670ab1f42b7b7acd385eaac4,Salad Bar 1,66e1fc2de45d43074be3a0fe,Mandarin Orange Sections,1199,1199.0,Tangy and delicious.,,7,1 ounce,,Mandarin Oranges,66e1fc2de45d43074be3a0fe,,10
+670ab1f42b7b7acd385eaacc,Salad Bar 1,66e1fc2de45d43074be3a0fe,Sliced Cucumber,68562,68562.0,,,8,1 ounce,,Cucumber,66e1fc2de45d43074be3a0fe,,0
+670ab1f42b7b7acd385eaad0,Salad Bar 1,66e1fc2de45d43074be3a0fe,Paprika Roasted Cauliflower,32841,32841.0,Roasted Cauliflower Seasoned with Paprika,,9,1 ounce,,"Cauliflower, Olive Oil, Paprika (Paprika and Silicon Dioxide), Salt",66e1fc2de45d43074be3a0fe,,30
+670ab1f42b7b7acd385eaa7a,Salad Bar 1,66e1fc2de45d43074be3a0fe,Blanched Broccoli,16207,16207.15,,,10,1 ounce,,"Water, Water, Broccoli, Salt",66e1fc2de45d43074be3a0fe,,10
+670ab1f42b7b7acd385eaabc,Salad Bar 1,66e1fc2de45d43074be3a0fe,Cherry Tomatoes,62343,62343.0,,,11,1 ounce,,Tomatoes,66e1fc2de45d43074be3a0fe,,5
+670ab1f42b7b7acd385eaaff,Salad Bar 1,66e1fc2de45d43074be3a0fe,Tri-Color Quinoa Blend,134217,134217.0,"Perfectly blended white, red and black quinoa combine for a unique texture, complex flavor profile and stunning visual presentation.",,14,1 ounce,,"Water, Tri-Color Quinoa, Vegetable Base, Salt",66e1fc2de45d43074be3a0fe,,35
+670ab1f42b7b7acd385eaad8,Salad Bar 1,66e1fc2de45d43074be3a0fe,Sliced Red Onion,14918,14918.0,,,15,1 ounce,,Onions,66e1fc2de45d43074be3a0fe,,10
+670ab1f42b7b7acd385eaa8a,Salad Bar 1,66e1fc2de45d43074be3a0fe,Sliced Beets,1119,1119.0,,,16,1/4 cup,,"Beets (Beets, water, salt)",66e1fc2de45d43074be3a0fe,,20
+670ab1f42b7b7acd385eaa95,Salad Bar 1,66e1fc2de45d43074be3a0fe,Roasted Brussels Sprouts,33992,33992.64,Roasted Brussel Sprouts,,17,1 cup,,"Brussels Sprouts, Olive Oil, Salt, Black Pepper",66e1fc2de45d43074be3a0fe,,90
+670ab1f42b7b7acd385eaa80,Salad Bar 1,66e1fc2de45d43074be3a0fe,Artichoke Hearts,61230,61230.0,,,18,1/4 cup,,"Artichoke hearts (Artichoke Hearts, Water, Salt and Citric Acid)",66e1fc2de45d43074be3a0fe,,30
+670ab1f42b7b7acd385eaa88,Salad Bar 1,66e1fc2de45d43074be3a0fe,Roasted Mushrooms,17023,17023.4,,,19,1/4 cup,,"Mushrooms, Canola Oil, Black Pepper, Salt",66e1fc2de45d43074be3a0fe,,25
+670ab1f42b7b7acd385eaa69,Salad Bar 1,66e1fc2de45d43074be3a0fe,Hard Boiled Egg,69542,69542.0,,,21,2 ounce,,Egg,66e1fc2de45d43074be3a0fe,,90
+670ab1f42b7b7acd385eadc2,Salad Bar 2,66e1fc2de45d43074be3a10d,Honey Sriracha Tofu,154104,154104.0,,,1,4 ounce,,"Tofu, Honey, Chili Garlic Sriracha Sauce, Lemon Juice, Canola Oil, Tamari Soy Sauce, Ginger (Ginger and Sulfur Dioxide)",66e1fc2de45d43074be3a10d,,140
+670ab1f42b7b7acd385eadcc,Salad Bar 2,66e1fc2de45d43074be3a10d,Cottage Cheese,1746,1746.4,Creamy and delicious.,,2,1 ounce,,1% Cottage Cheese,66e1fc2de45d43074be3a10d,,20
+670ab1f42b7b7acd385eaddd,Salad Bar 2,66e1fc2de45d43074be3a10d,Shredded Cheddar Cheese,3664,3664.7,,,3,1 tbsp,,Cheddar Cheese,66e1fc2de45d43074be3a10d,,30
+670ab1f42b7b7acd385eadd3,Salad Bar 2,66e1fc2de45d43074be3a10d,Croutons,31698,31698.1,Croutons to add to a salad,,4,1 ounce,,"French Baguette, Garlic, Salt, Canola Oil",66e1fc2de45d43074be3a10d,,80
+670ab1f42b7b7acd385eace5,Salad Bar 2,66e1fc2de45d43074be3a10d,Roasted Sunflower Seeds,62349,62349.0,,,6,1 tsp,,Sunflower Seeds,66e1fc2de45d43074be3a10d,,15
+670ab1f42b7b7acd385ead84,Salad Bar 2,66e1fc2de45d43074be3a10d,Extra Virgin Olive Oil,63338,63338.2,,,7,1 floz,,Olive Oil,66e1fc2de45d43074be3a10d,,240
+670ab1f42b7b7acd385ead7e,Salad Bar 2,66e1fc2de45d43074be3a10d,Balsamic Vinegar,47957,47957.11,,,8,1/2 floz,,Balsamic Vinegar,66e1fc2de45d43074be3a10d,,15
+670ab1f42b7b7acd385ead79,Salad Bar 2,66e1fc2de45d43074be3a10d,Red Wine Vinegar,62369,62369.0,,,9,1/2 floz,,Red Wine Vinegar,66e1fc2de45d43074be3a10d,,0
+670ab1f42b7b7acd385ead73,Salad Bar 2,66e1fc2de45d43074be3a10d,Blue Cheese Crumbles,47711,47711.1,,,10,1 tbsp,,Blue Cheese,66e1fc2de45d43074be3a10d,,30
+670ab1f42b7b7acd385eada1,Composed Salad,66e1fc2de45d43074be3a10e,Chopped Romaine Lettuce,47799,47799.3,,,1,1/2 cup,,Chopped Lettuce,66e1fc2de45d43074be3a10e,,0
+670ab1f42b7b7acd385eadb2,Composed Salad,66e1fc2de45d43074be3a10e,Chopped Iceberg Lettuce,62522,62522.0,,,2,1 cup,,Lettuce,66e1fc2de45d43074be3a10e,,10
+670ab1f42b7b7acd385eadae,Composed Salad,66e1fc2de45d43074be3a10e,Spring Mix,47795,47795.1,,,3,1 cup,,Spring Lettuce Salad Mix,66e1fc2de45d43074be3a10e,,5
+670ab1f42b7b7acd385eab07,Bakery-Dessert,66e1fc2de45d43074be3a0fc,Regular Vegan Tofu Carrot Cupcakes					,102820,102820.3,,,1,4 oz portion,,"Carrots, All Purpose Flour, Vanilla Icing, Tofu, Raisins, Brown Sugar (sugar, cane syrups), Orange Juice, Canola Oil, Vanilla Extract, Baking Powder, Salt, Baking Soda, Cinnamon",66e1fc2de45d43074be3a0fc,,330
+670ab1f42b7b7acd385eab0f,Bakery-Dessert,66e1fc2de45d43074be3a0fc,Blondies,4647,4647.9,Simple and tasty blondie that can be jazzed up to your liking.,,2,1 serving(s),,"Yellow Cake Mix, Liquid Egg, Brown Sugar (sugar, cane syrups), Butter",66e1fc2de45d43074be3a0fc,,340
+670ab1f42b7b7acd385eab1f,Bakery-Dessert,66e1fc2de45d43074be3a0fc,Double Chocolate Chip Cookies,1102,1102.5,,,3,1 each,,Double Chocolate Chip Cookie Dough,66e1fc2de45d43074be3a0fc,,120
+670ab1f42b7b7acd385eadba,Soup,66e1fc2de45d43074be3a10f,"Crackers, Saltine, 2 CT, Zesta",1909,1909.0,,,1,1 each,,"Enriched flour (wheat flour, niacin, reduced iron, vitamin B1 [thiamin mononitrate], vitamin B2 [riboflavin], folic acid), soybean oil (with TBHQ for freshness), salt, corn syrup. Contains 2% or less of baking soda, yeast, soy lecithin.
+Contains: Wheat, Soy. ",66e1fc2de45d43074be3a10f,,25
+670ab1f42b7b7acd385ead98,Soup,66e1fc2de45d43074be3a10f,Three Bean Vegetable Minestrone,102076,102076.0,"Fresh vegetables, cannellni beans, chickpeas, kidney beans, and fresh herbs",,2,4 ounce,,"Water, Diced tomatoes (tomatoes, tomato juice, calcium chloride, citric acid), Cannellini Beans (White Kidney Beans, Water, Salt, Calcium Chloride, Disodium Edta), Kidney Beans, Chick peas (Chick Peas, Water, Salt, Mustard, Calcium Chloride, Disodium EDTA), Onions, Tomato puree (tomato puree, water, tomato paste, citric acid), Squash, Carrots, Green Beans, Zucchini, Celery, Pasta, Vegetable Base, Canola Oil, Salt, Green Onions, Garlic, Bay Leaf, Garlic, Basil, Parsley, White Wine Vinegar, Fresh Ground Black Pepper, Granulated Onion, Basil, Oregano, Red Pepper",66e1fc2de45d43074be3a10f,,60
+670ab1f42b7b7acd385ead92,Soup,66e1fc2de45d43074be3a10f,Avgolemono,66509,66509.0,Traditional Greek lemony chicken soup thickened with egg,,3,1-1/2 cup,,"Waters, Chicken, Chicken Bones, Egg, Onions, Lemon Juice, Carrots, Celery, Parsley, Garlic, Salt, Dill, Thyme, Bay Leaf, Black Pepper, Black Pepper",66e1fc2de45d43074be3a10f,,80
+670ab1f42b7b7acd385eac0f,Pantry 1,66e1fc2de45d43074be3a10a,English Muffin,63633,63633.0,,,1,1 each,,English Muffin,66e1fc2de45d43074be3a10a,,150
+670ab1f42b7b7acd385eac29,Pantry 1,66e1fc2de45d43074be3a10a,White Bread,1251,1251.0,,,2,2 slice,,White Bread,66e1fc2de45d43074be3a10a,,150
+670ab1f42b7b7acd385eac20,Pantry 1,66e1fc2de45d43074be3a10a,Whole Wheat Bread,1390,1390.6,,,3,2 slice,,Whole Wheat Bread,66e1fc2de45d43074be3a10a,,150
+670ab1f42b7b7acd385eac1e,Pantry 1,66e1fc2de45d43074be3a10a,Plain Bagel,63651,63651.6,,,4,1 each,,Plain Bagel,66e1fc2de45d43074be3a10a,,300
+670ab1f42b7b7acd385eac0d,Pantry 1,66e1fc2de45d43074be3a10a,Cinnamon Raisin Bread,62272,62272.13,,,5,1 slice,,Raisin Bread,66e1fc2de45d43074be3a10a,,70
+670ab1f42b7b7acd385eab5a,Pantry 1,66e1fc2de45d43074be3a10a,Frosted Flakes,63313,63313.7,,,6,1 cup,,Frosted Flakes Cereal,66e1fc2de45d43074be3a10a,,130
+670ab1f42b7b7acd385eab31,Pantry 1,66e1fc2de45d43074be3a10a,Froot Loops,82071,82071.2,,,7,1 cup,,Fruit Loops Cereal,66e1fc2de45d43074be3a10a,,110
+670ab1f42b7b7acd385eab63,Pantry 1,66e1fc2de45d43074be3a10a,Cinnamon Toast Crunch,82256,82256.3,,,8,1 cup,,Cinnamon Toast Crunch,66e1fc2de45d43074be3a10a,,170
+670ab1f42b7b7acd385eab2e,Pantry 1,66e1fc2de45d43074be3a10a,Raisin Bran,82071,82071.5,,,9,1 cup,,Raisin Bran,66e1fc2de45d43074be3a10a,,190
+670ab1f42b7b7acd385eab27,Pantry 1,66e1fc2de45d43074be3a10a,Special K,63313,63313.11,,,10,1 cup,,Special K Cereal,66e1fc2de45d43074be3a10a,,120
+670ab1f42b7b7acd385eac30,Pantry 1,66e1fc2de45d43074be3a10a,Banana,1318,1318.0,,,11,1 each,,Banana,66e1fc2de45d43074be3a10a,,110
+670ab1f42b7b7acd385eac37,Pantry 1,66e1fc2de45d43074be3a10a,Orange,64062,64062.0,,,12,1 each,,Orange,66e1fc2de45d43074be3a10a,,60
+670ab1f42b7b7acd385eac15,Pantry 1,66e1fc2de45d43074be3a10a,Apple,1638,1638.0,,,13,1 each,,Apples,66e1fc2de45d43074be3a10a,,70
+670ab1f42b7b7acd385eab67,Gluten Free Pantry,66e1fc2de45d43074be3a10b,Rice Krispies,63313,63313.8,,,1,1 cup,,Rice Krispies Cereal,66e1fc2de45d43074be3a10b,,100
+670ab1f42b7b7acd385eab36,Gluten Free Pantry,66e1fc2de45d43074be3a10b,Cheerios,63313,63313.2,,,2,1 cup,,Cheerios Cereal,66e1fc2de45d43074be3a10b,,100
+670ab1f42b7b7acd385eab71,Gluten Free Pantry,66e1fc2de45d43074be3a10b,Lucky Charms,82256,82256.4,,,3,1 cup,,Lucky Charms Cereal,66e1fc2de45d43074be3a10b,,140
+670ab1f42b7b7acd385eabf6,Gluten Free Pantry,66e1fc2de45d43074be3a10b,Udi's Hamburger Bun,1390,1390.5,,,4,1 each,,Gluten Free Hamburger Bun,66e1fc2de45d43074be3a10b,,240
+670ab1f42b7b7acd385eabfb,Gluten Free Pantry,66e1fc2de45d43074be3a10b,Udi's White Bread,1390,1390.3,,,5,1 slice,,Udi's Bread,66e1fc2de45d43074be3a10b,,150
+670ab1f42b7b7acd385eac01,Gluten Free Pantry,66e1fc2de45d43074be3a10b,Udi's Plain Bagel,1390,1390.4,,,6,1 each,,Udi's Bagel,66e1fc2de45d43074be3a10b,,310
+670ab1f42b7b7acd385ead1c,Beverage,66e1fc2de45d43074be3a110,Orange Juice,52456,52456.0,,,1,16 floz,,Orange Juice,66e1fc2de45d43074be3a110,,230
+670ab1f42b7b7acd385ead48,Beverage,66e1fc2de45d43074be3a110,Apple Juice,52459,52459.0,,,2,16 floz,,Apple Juice,66e1fc2de45d43074be3a110,,230
+670ab1f42b7b7acd385eacf1,Beverage,66e1fc2de45d43074be3a110,Cranberry Juice,81277,81277.0,,,3,16 floz,,"Waters, Cranberry Juice",66e1fc2de45d43074be3a110,,210
+670ab1f42b7b7acd385ead30,Beverage,66e1fc2de45d43074be3a110,Coffee,1319,1319.0,,,4,8 ounce,,"Coffee, Water",66e1fc2de45d43074be3a110,,0
+670ab1f42b7b7acd385ead3d,Beverage,66e1fc2de45d43074be3a110,Decaf Coffee,16603,16603.0,,,5,8 floz,,"Water, Decaf Coffee",66e1fc2de45d43074be3a110,,0
+670ab1f42b7b7acd385ead51,Beverage,66e1fc2de45d43074be3a110,Hot Tea,1343,1343.0,,,6,8 ounce,,"Water, Tea",66e1fc2de45d43074be3a110,,0
+670ab1f42b7b7acd385ead06,Beverage,66e1fc2de45d43074be3a110,Mountain Berry Powerade,82373,82373.5,,,7,16 floz,,Mountain Berry Powerade,66e1fc2de45d43074be3a110,,120
+670ab1f42b7b7acd385eacee,Beverage,66e1fc2de45d43074be3a110,Diet Coke,80871,80871.0,,,8,1 floz,,Diet Cola Syrup,66e1fc2de45d43074be3a110,,0
+670ab1f42b7b7acd385ead01,Beverage,66e1fc2de45d43074be3a110,Lemonade,85814,85814.4,,,9,16 floz,,Lemonade,66e1fc2de45d43074be3a110,,90
+670ab1f42b7b7acd385ead12,Beverage,66e1fc2de45d43074be3a110,Coca-Cola,80448,80448.0,,,10,16 floz,,Cola Syrup,66e1fc2de45d43074be3a110,,210
+670ab1f42b7b7acd385eace1,Beverage,66e1fc2de45d43074be3a110,Sprite,80876,80876.0,,,11,16 floz,,Sprite Syrup,66e1fc2de45d43074be3a110,,200
+670ab1f42b7b7acd385ead44,Beverage,66e1fc2de45d43074be3a110,Barq's Root Beer,80888,80888.0,,,12,16 floz,,Root Beer Syrup,66e1fc2de45d43074be3a110,,230
+670ab1f42b7b7acd385eacd8,Beverage,66e1fc2de45d43074be3a110,Sweet Iced Tea,87452,87452.6,,,13,16 floz,,Sweet Iced Tea,66e1fc2de45d43074be3a110,,180
+670ab1f42b7b7acd385eacf6,Beverage,66e1fc2de45d43074be3a110,"Milk, Skim",52470,52470.0,Nonfat,,15,16 floz,,Fat Free Milk,66e1fc2de45d43074be3a110,,170
+670ab1f42b7b7acd385ead38,Beverage,66e1fc2de45d43074be3a110,"Milk, Lowfat, 1%",52467,52467.0,,,16,16 floz,,Lowfat Milk,66e1fc2de45d43074be3a110,,200
+670ab1f42b7b7acd385eacce,Beverage,66e1fc2de45d43074be3a110,"Chocolate Milk, Low Fat 1%",52465,52465.0,,,17,16 floz,,Low Fat Chocolate Milk,66e1fc2de45d43074be3a110,,380
+670ab1f42b7b7acd385ead0c,Beverage,66e1fc2de45d43074be3a110,"Milk, Soy, Chocolate, 8 fl oz",20462,20462.0,,,18,1 each,,"Soymilk (Filtered Water, Soybeans), Cane Sugar, Cocoa (Processed with Alkali), Vitamin and Mineral Blend (Calcium Carbonate, Vitamin A Palmitate, Vitamin D2, Riboflavin [B2], Vitamin B12), Sea Salt, Gellan Gum, Ascorbic Acid (To Protect Freshness), Natural Flavor. Contains Soy.",66e1fc2de45d43074be3a110,,170
+670ab1f42b7b7acd385eacfa,Beverage,66e1fc2de45d43074be3a110,"Milk, Soy, Vanilla, 8 fl oz",20463,20463.0,,,19,1 each,,"Soymilk (Filtered Water, Soybeans), Cane Sugar, Vitamin and Mineral Blend (Calcium Carbonate, Vitamin A Palmitate, Vitamin D2, Riboflavin [B2], Vitamin B12), Sea Salt, Gellan Gum, Natural Flavor, Ascorbic Acid (To Protect Freshness). Contains Soy.",66e1fc2de45d43074be3a110,,150

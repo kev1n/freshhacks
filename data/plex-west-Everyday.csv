@@ -1,0 +1,57 @@
+id,category_name,category_id,name,mrn,mrn_full,desc,webtrition_id,sort_order,portion,qty,ingredients,category_id,custom_allergens,calories
+670abaf22b7b7acd38bbe4df,Pure Eats Deli,66e99466351d5306ad498468,Udi's White Bread,1390,1390.3,,,1,2 slice,,Udi's Bread,66e99466351d5306ad498468,,300
+670abaf22b7b7acd38bbe4d1,Pure Eats Deli,66e99466351d5306ad498468,Udi's Plain Bagel,1390,1390.4,,,2,1 each,,Udi's Bagel,66e99466351d5306ad498468,,310
+670abaf22b7b7acd38bbe4e3,Pure Eats Deli,66e99466351d5306ad498468,Thinly Sliced Deli Turkey Breast,48144,48144.1,,,3,3 ounce,,Turkey,66e99466351d5306ad498468,,90
+670abaf22b7b7acd38bbe4f2,Pure Eats Deli,66e99466351d5306ad498468,Thinly Sliced Smoked Ham,14910,14910.0,,,4,3 ounce,,Ham,66e99466351d5306ad498468,,110
+670abaf22b7b7acd38bbe4ed,Pure Eats Deli,66e99466351d5306ad498468,Lettuce Leaf,14957,14957.0,,,5,1 each,,Lettuce Leaf,66e99466351d5306ad498468,,0
+670abaf22b7b7acd38bbe4d9,Pure Eats Deli,66e99466351d5306ad498468,Sliced Tomatoes,47955,47955.4,,,6,2 slice,,Tomatoes,66e99466351d5306ad498468,,0
+670abaf22b7b7acd38bbe4e7,Pure Eats Deli,66e99466351d5306ad498468,Sliced Red Onion,14918,14918.0,,,7,1 slice,,Onions,66e99466351d5306ad498468,,5
+670abaf22b7b7acd38bbe573,Pure Eats Beverages,66e99466351d5306ad498469,Orange Juice,52456,52456.0,,,1,8 floz,,Orange Juice,66e99466351d5306ad498469,,120
+670abaf22b7b7acd38bbe558,Pure Eats Beverages,66e99466351d5306ad498469,Apple Juice,52459,52459.0,,,2,8 floz,,Apple Juice,66e99466351d5306ad498469,,110
+670abaf22b7b7acd38bbe577,Pure Eats Beverages,66e99466351d5306ad498469,Cranberry Juice,81277,81277.0,,,3,8 floz,,"Waters, Cranberry Juice",66e99466351d5306ad498469,,110
+670abaf22b7b7acd38bbe58b,Pure Eats Beverages,66e99466351d5306ad498469,Coffee,1319,1319.0,,,4,8 ounce,,"Coffee, Water",66e99466351d5306ad498469,,0
+670abaf22b7b7acd38bbe554,Pure Eats Beverages,66e99466351d5306ad498469,Decaf Coffee,16603,16603.0,,,5,8 floz,,"Water, Decaf Coffee",66e99466351d5306ad498469,,0
+670abaf22b7b7acd38bbe565,Pure Eats Beverages,66e99466351d5306ad498469,Hot Tea,1343,1343.0,,,6,8 ounce,,"Water, Tea",66e99466351d5306ad498469,,0
+670abaf22b7b7acd38bbe56e,Pure Eats Beverages,66e99466351d5306ad498469,Mountain Berry Powerade,82373,82373.5,,,7,8 floz,,Mountain Berry Powerade,66e99466351d5306ad498469,,60
+670abaf22b7b7acd38bbe57e,Pure Eats Beverages,66e99466351d5306ad498469,Lemonade,85814,85814.4,,,8,8 floz,,Lemonade,66e99466351d5306ad498469,,45
+670abaf22b7b7acd38bbe582,Pure Eats Beverages,66e99466351d5306ad498469,Coca-Cola,80448,80448.0,,,9,8 floz,,Cola Syrup,66e99466351d5306ad498469,,110
+670abaf22b7b7acd38bbe593,Pure Eats Beverages,66e99466351d5306ad498469,Diet Coke,80871,80871.0,,,10,1 floz,,Diet Cola Syrup,66e99466351d5306ad498469,,0
+670abaf22b7b7acd38bbe599,Pure Eats Beverages,66e99466351d5306ad498469,Sprite,80876,80876.0,,,11,8 floz,,Sprite Syrup,66e99466351d5306ad498469,,100
+670abaf22b7b7acd38bbe55c,Pure Eats Beverages,66e99466351d5306ad498469,Barq's Root Beer,80888,80888.0,,,12,8 floz,,Root Beer Syrup,66e99466351d5306ad498469,,110
+670abaf22b7b7acd38bbe569,Pure Eats Beverages,66e99466351d5306ad498469,Coke Zero,81253,81253.1,,,13,8 floz,,Coke Zero,66e99466351d5306ad498469,,0
+670abaf22b7b7acd38bbe59e,Pure Eats Beverages,66e99466351d5306ad498469,Unsweetened Iced Tea,1332,1332.0,,,14,3/4 cup,,"Water, Iced Tea",66e99466351d5306ad498469,,0
+670abaf22b7b7acd38bbe58d,Pure Eats Beverages,66e99466351d5306ad498469,Rice Milk,74187,74187.0,,,15,1 cup,,Rice Milk,66e99466351d5306ad498469,,120
+670abaf22b7b7acd38bbe5a4,Pure Eats My Pantry,66e99466351d5306ad49846a,Ketchup,47957,47957.12,,,1,1 ounce,,Ketchup,66e99466351d5306ad49846a,,35
+670abaf22b7b7acd38bbe5a9,Pure Eats My Pantry,66e99466351d5306ad49846a,Yellow Mustard,47957,47957.10,,,2,1 ounce,,Yellow Mustard,66e99466351d5306ad49846a,,15
+670abaf22b7b7acd38bbe5c8,Pure Eats My Pantry,66e99466351d5306ad49846a,Barbecue Sauce,14984,14984.0,,,3,1 ounce,,Barbecue Sauce,66e99466351d5306ad49846a,,45
+670abaf22b7b7acd38bbe5c4,Pure Eats My Pantry,66e99466351d5306ad49846a,Sunflower Spread,63396,63396.1,,,4,1 tsp,,Sunflower Seed Butter,66e99466351d5306ad49846a,,35
+670abaf22b7b7acd38bbe648,Pure Eats My Pantry,66e99466351d5306ad49846a,Grape Jelly,63393,63393.0,,,5,1 tbsp,,Grape Jelly,66e99466351d5306ad49846a,,50
+670abaf22b7b7acd38bbe5ae,Pure Eats My Pantry,66e99466351d5306ad49846a,Rice Chex,82071,82071.9,,,6,1 cup,,Rice Chex,66e99466351d5306ad49846a,,110
+670abaf22b7b7acd38bbe5b4,Pure Eats My Pantry,66e99466351d5306ad49846a,Cheerios,63313,63313.2,,,7,1 cup,,Cheerios Cereal,66e99466351d5306ad49846a,,100
+670abaf22b7b7acd38bbe5bd,Pure Eats My Pantry,66e99466351d5306ad49846a,Lucky Charms,82256,82256.4,,,8,1 cup,,Lucky Charms Cereal,66e99466351d5306ad49846a,,140
+670abaf22b7b7acd38bbe61b,Pure Eats My Pantry,66e99466351d5306ad49846a,Banana,1318,1318.0,,,9,1 each,,Banana,66e99466351d5306ad49846a,,110
+670abaf22b7b7acd38bbe612,Pure Eats My Pantry,66e99466351d5306ad49846a,Orange,64062,64062.0,,,10,1 each,,Orange,66e99466351d5306ad49846a,,60
+670abaf22b7b7acd38bbe618,Pure Eats My Pantry,66e99466351d5306ad49846a,Apple,1638,1638.0,,,11,1 each,,Apples,66e99466351d5306ad49846a,,70
+670abaf22b7b7acd38bbe5bf,Pure Eats My Pantry,66e99466351d5306ad49846a,Maple Syrup,66297,66297.0,,,15,1 floz,,Maple Syrup,66e99466351d5306ad49846a,,100
+670abaf22b7b7acd38bbe643,Pure Eats Salad,66e99466351d5306ad49846b,Chopped Romaine Lettuce,47799,47799.3,,,1,1/2 cup,,Chopped Lettuce,66e99466351d5306ad49846b,,0
+670abaf22b7b7acd38bbe639,Pure Eats Salad,66e99466351d5306ad49846b,Spring Mix,47795,47795.1,,,2,1/2 cup,,Spring Lettuce Salad Mix,66e99466351d5306ad49846b,,0
+670abaf22b7b7acd38bbe634,Pure Eats Salad,66e99466351d5306ad49846b,Mandarin Orange Sections,1199,1199.0,Tangy and delicious.,,4,1 ounce,,Mandarin Oranges,66e99466351d5306ad49846b,,10
+670abaf22b7b7acd38bbe625,Pure Eats Salad,66e99466351d5306ad49846b,Sliced Cucumber,68562,68562.0,,,5,1 ounce,,Cucumber,66e99466351d5306ad49846b,,0
+670abaf22b7b7acd38bbe62f,Pure Eats Salad,66e99466351d5306ad49846b,Cauliflower Florets,62528,62528.0,,,6,1 ounce,,Cauliflower,66e99466351d5306ad49846b,,5
+670abaf22b7b7acd38bbe62b,Pure Eats Salad,66e99466351d5306ad49846b,Cherry Tomatoes,62343,62343.0,,,7,1 ounce,,Tomatoes,66e99466351d5306ad49846b,,5
+670abaf22b7b7acd38bbe640,Pure Eats Salad,66e99466351d5306ad49846b,Sliced Red Onion,14918,14918.0,,,8,1 ounce,,Onions,66e99466351d5306ad49846b,,10
+670abaf22b7b7acd38bbe620,Pure Eats Salad,66e99466351d5306ad49846b,Sliced Mushrooms,62338,62338.0,,,9,1 ounce,,Mushrooms,66e99466351d5306ad49846b,,5
+670abaf22b7b7acd38bbe5f5,Pure Eats Salad,66e99466351d5306ad49846b,Green Peas,62341,62341.0,,,11,1/4 cup,,Green Peas,66e99466351d5306ad49846b,,30
+670abaf22b7b7acd38bbe5cd,Pure Eats Salad,66e99466351d5306ad49846b,Corn,13404,13404.22,,,12,1/4 cup,,Corn,66e99466351d5306ad49846b,,35
+670abaf22b7b7acd38bbe5d3,Pure Eats Salad,66e99466351d5306ad49846b,Shredded Carrots,57858,57858.7,,,13,1/4 cup,,Carrots,66e99466351d5306ad49846b,,10
+670abaf22b7b7acd38bbe60a,Pure Eats Salad,66e99466351d5306ad49846b,Artichoke Hearts,61230,61230.0,,,14,1/4 cup,,"Artichoke hearts (Artichoke Hearts, Water, Salt and Citric Acid)",66e99466351d5306ad49846b,,30
+670abaf22b7b7acd38bbe5f1,Pure Eats Salad,66e99466351d5306ad49846b,Sliced Green Bell Pepper,62342,62342.0,,,16,1/4 cup,,Green Bell Peppers,66e99466351d5306ad49846b,,0
+670abaf22b7b7acd38bbe60c,Pure Eats Salad,66e99466351d5306ad49846b,Sliced Beets,1119,1119.0,,,17,1/4 cup,,"Beets (Beets, water, salt)",66e99466351d5306ad49846b,,20
+670abaf22b7b7acd38bbe5ea,Pure Eats Salad,66e99466351d5306ad49846b,Sliced Pepperoncini Peppers,68563,68563.0,,,18,1 tbsp,,Pepperoncini,66e99466351d5306ad49846b,,0
+670abaf22b7b7acd38bbe602,Pure Eats Salad,66e99466351d5306ad49846b,Lemon Slices,1303,1303.0,,,19,1 slice,,Lemon,66e99466351d5306ad49846b,,0
+670abaf22b7b7acd38bbe5d7,Pure Eats Salad,66e99466351d5306ad49846b,Raisins,62348,62348.0,,,20,1 tbsp,,Raisins,66e99466351d5306ad49846b,,25
+670abaf22b7b7acd38bbe5ff,Pure Eats Salad,66e99466351d5306ad49846b,Roasted Sunflower Seeds,62349,62349.0,,,21,1 tbsp,,Sunflower Seeds,66e99466351d5306ad49846b,,45
+670abaf22b7b7acd38bbe5ec,Pure Eats Salad,66e99466351d5306ad49846b,Dried Cranberries,62347,62347.0,,,22,1 tbsp,,Cranberries,66e99466351d5306ad49846b,,30
+670abaf22b7b7acd38bbe5f9,Pure Eats Salad,66e99466351d5306ad49846b,Extra Virgin Olive Oil,63338,63338.2,,,23,1 ounce,,Olive Oil,66e99466351d5306ad49846b,,250
+670abaf22b7b7acd38bbe5dc,Pure Eats Salad,66e99466351d5306ad49846b,Red Wine Vinegar,62369,62369.0,,,24,1 floz,,Red Wine Vinegar,66e99466351d5306ad49846b,,5
+670abaf22b7b7acd38bbe5e2,Pure Eats Salad,66e99466351d5306ad49846b,Balsamic Vinegar,47957,47957.11,,,25,1 ounce,,Balsamic Vinegar,66e99466351d5306ad49846b,,25

@@ -1,0 +1,63 @@
+id,category_name,category_id,name,mrn,mrn_full,desc,webtrition_id,sort_order,portion,qty,ingredients,category_id,custom_allergens,calories
+670ab6d12b7b7acd388e9c29,Beverages,66e99466351d5306ad498441,Orange Juice,63589,63589.0,,,1,8 floz,,Orange Juice,66e99466351d5306ad498441,,120
+670ab6d12b7b7acd388e9c3d,Beverages,66e99466351d5306ad498441,Apple Juice,63593,63593.0,,,2,8 floz,,Apple Juice,66e99466351d5306ad498441,,110
+670ab6d12b7b7acd388e9bf7,Beverages,66e99466351d5306ad498441,Cranberry Juice,63614,63614.1,,,3,1 floz,,Cranberry Juice,66e99466351d5306ad498441,,15
+670ab6d12b7b7acd388e9c31,Beverages,66e99466351d5306ad498441,Coffee,81275,81275.0,,,4,6 floz,,"Water, Coffee",66e99466351d5306ad498441,,0
+670ab6d12b7b7acd388e9c1f,Beverages,66e99466351d5306ad498441,Decaf Coffee,16603,16603.0,,,5,8 floz,,"Water, Decaf Coffee",66e99466351d5306ad498441,,0
+670ab6d12b7b7acd388e9c26,Beverages,66e99466351d5306ad498441,Hot Cocoa,81231,81231.0,,,6,8 floz,,"Water, Cocoa Mix",66e99466351d5306ad498441,,140
+670ab6d12b7b7acd388e9c54,Beverages,66e99466351d5306ad498441,Mountain Berry Powerade,82373,82373.5,,,7,16 floz,,Mountain Berry Powerade,66e99466351d5306ad498441,,120
+670ab6d12b7b7acd388e9c04,Beverages,66e99466351d5306ad498441,Lemonade,85814,85814.9,,,8,16 floz,,Lemonade,66e99466351d5306ad498441,,290
+670ab6d12b7b7acd388e9c5b,Beverages,66e99466351d5306ad498441,Coca-Cola,80448,80448.0,,,9,16 floz,,Cola Syrup,66e99466351d5306ad498441,,210
+670ab6d12b7b7acd388e9c4b,Beverages,66e99466351d5306ad498441,Sprite,80876,80876.0,,,10,16 floz,,Sprite Syrup,66e99466351d5306ad498441,,200
+670ab6d12b7b7acd388e9be8,Beverages,66e99466351d5306ad498441,Barq's Root Beer,80888,80888.0,,,11,16 floz,,Root Beer Syrup,66e99466351d5306ad498441,,230
+670ab6d12b7b7acd388e9c34,Beverages,66e99466351d5306ad498441,Sprite Zero,80887,80887.0,,,12,1 floz,,Sprite Zero Syrup,66e99466351d5306ad498441,,0
+670ab6d12b7b7acd388e9c19,Beverages,66e99466351d5306ad498441,Diet Coke,80871,80871.0,,,13,1 floz,,Diet Cola Syrup,66e99466351d5306ad498441,,0
+670ab6d12b7b7acd388e9c41,Beverages,66e99466351d5306ad498441,Coke Zero,81253,81253.1,,,14,1 floz,,Coke Zero,66e99466351d5306ad498441,,0
+670ab6d12b7b7acd388e9c12,Beverages,66e99466351d5306ad498441,Skim Milk,57683,57683.5,,,15,8 floz,,Fat Free Milk,66e99466351d5306ad498441,,80
+670ab6d12b7b7acd388e9c4f,Beverages,66e99466351d5306ad498441,2% Milk,57683,57683.6,,,16,8 floz,,Reduced Fat Milk,66e99466351d5306ad498441,,120
+670ab6d12b7b7acd388e9c0e,Beverages,66e99466351d5306ad498441,Low Fat Chocolate Milk,57683,57683.13,,,17,1 floz,,Low Fat Chocolate Milk,66e99466351d5306ad498441,,20
+670ab6d12b7b7acd388e9bf0,Beverages,66e99466351d5306ad498441,Chocolate Soy Milk,52482,52482.0,,,18,8 floz,,Chocolate Soy Milk,66e99466351d5306ad498441,,170
+670ab6d12b7b7acd388e9bf3,Beverages,66e99466351d5306ad498441,"Milk, Soy, Vanilla, 8 fl oz",20463,20463.0,,,19,1 each,,"Soymilk (Filtered Water, Soybeans), Cane Sugar, Vitamin and Mineral Blend (Calcium Carbonate, Vitamin A Palmitate, Vitamin D2, Riboflavin [B2], Vitamin B12), Sea Salt, Gellan Gum, Natural Flavor, Ascorbic Acid (To Protect Freshness). Contains Soy.",66e99466351d5306ad498441,,150
+670ab6d12b7b7acd388e9bfd,Beverages,66e99466351d5306ad498441,Unsweetened Iced Tea,1332,1332.0,,,20,6 floz,,"Water, Iced Tea",66e99466351d5306ad498441,,0
+670ab6d12b7b7acd388e9bff,Beverages,66e99466351d5306ad498441,Lime Spa Water,103369,103369.0,,,21,8 floz,,"Waters, Ice, Lime",66e99466351d5306ad498441,,0
+670ab6d12b7b7acd388e9cb2,My  Pantry,66e99466351d5306ad498442,English Muffin,63633,63633.0,,,1,1 each,,English Muffin,66e99466351d5306ad498442,,150
+670ab6d12b7b7acd388e9c76,My  Pantry,66e99466351d5306ad498442,White Bread,62272,62272.0,,,2,1 slice,,White Bread,66e99466351d5306ad498442,,100
+670ab6d12b7b7acd388e9cba,My  Pantry,66e99466351d5306ad498442,Whole Wheat Bread,1390,1390.6,,,3,2 slice,,Whole Wheat Bread,66e99466351d5306ad498442,,150
+670ab6d12b7b7acd388e9cf3,My  Pantry,66e99466351d5306ad498442,Light Cream Cheese,79884,79884.0,,,6,1 tbsp,,Neufchatel Cream Cheese,66e99466351d5306ad498442,,40
+670ab6d12b7b7acd388e9ce8,My  Pantry,66e99466351d5306ad498442,Strawberry Cream Cheese,102532,102532.0,,,7,1 oz portion,,"Cream Cheese, Strawberries",66e99466351d5306ad498442,,60
+670ab6d12b7b7acd388e9cfa,My  Pantry,66e99466351d5306ad498442,Sunflower Spread,63396,63396.1,,,8,1 tbsp,,Sunflower Seed Butter,66e99466351d5306ad498442,,100
+670ab6d12b7b7acd388e9cfd,My  Pantry,66e99466351d5306ad498442,Grape Jelly,63393,63393.0,,,9,1 tbsp,,Grape Jelly,66e99466351d5306ad498442,,50
+670ab6d12b7b7acd388e9cec,My  Pantry,66e99466351d5306ad498442,Strawberry Preserves,47957,47957.17,Strawberry Preserves,,10,1 tbsp,,Strawberry Preserves,66e99466351d5306ad498442,,50
+670ab6d12b7b7acd388e9ce2,My  Pantry,66e99466351d5306ad498442,Whipped Butter,98443,98443.0,Whipped Butter,,11,1/2 ounce,,Butter,66e99466351d5306ad498442,,50
+670ab6d12b7b7acd388e9c8c,My  Pantry,66e99466351d5306ad498442,Smart Balance Margarine,63425,63425.0,,,12,1 tbsp,,Margarine,66e99466351d5306ad498442,,90
+670ab6d12b7b7acd388e9cc0,My  Pantry,66e99466351d5306ad498442,Banana,1318,1318.0,,,13,1 each,,Banana,66e99466351d5306ad498442,,110
+670ab6d12b7b7acd388e9cb4,My  Pantry,66e99466351d5306ad498442,Orange,64062,64062.0,,,14,1 each,,Orange,66e99466351d5306ad498442,,60
+670ab6d12b7b7acd388e9c94,My  Pantry,66e99466351d5306ad498442,Gala Apple,1638,1638.7,apple,,15,1 each,,Apples,66e99466351d5306ad498442,,110
+670ab6d12b7b7acd388e9cc5,My  Pantry,66e99466351d5306ad498442,Waffle Batter,62119,62119.1,Carbon's Buttermilk Waffles,,16,1 each,,"Water, Malted Pancake Mix, Oil",66e99466351d5306ad498442,,310
+670ab6d12b7b7acd388e9cd8,My  Pantry,66e99466351d5306ad498442,Whipped Topping,28295,28295.0,,,17,1 tbsp,,Whipped Topping,66e99466351d5306ad498442,,10
+670ab6d12b7b7acd388e9cce,My  Pantry,66e99466351d5306ad498442,Rainbow Sprinkles,63479,63479.0,,,18,1 tbsp,,Rainbow Sprinkles,66e99466351d5306ad498442,,45
+670ab6d12b7b7acd388e9cdc,My  Pantry,66e99466351d5306ad498442,Semi Sweet Chocolate Chips,63498,63498.0,,,19,1 tbsp,,Semi Sweet Chocolate,66e99466351d5306ad498442,,70
+670ab6d12b7b7acd388e9cc9,My  Pantry,66e99466351d5306ad498442,Pancake and Waffle Syrup,36205,36205.0,,,20,1 ladle-1oz,,Pancake & Waffle Syrup,66e99466351d5306ad498442,,90
+670ab6d12b7b7acd388e9c97,My  Pantry,66e99466351d5306ad498442,Raisin Bran,82071,82071.5,,,21,1 cup,,Raisin Bran,66e99466351d5306ad498442,,190
+670ab6d12b7b7acd388e9ca0,My  Pantry,66e99466351d5306ad498442,Cheerios,63313,63313.2,,,22,1 cup,,Cheerios Cereal,66e99466351d5306ad498442,,100
+670ab6d12b7b7acd388e9ca3,My  Pantry,66e99466351d5306ad498442,Cocoa Puffs,63313,63313.12,,,23,1 cup,,Cocoa Puff Cereal,66e99466351d5306ad498442,,140
+670ab6d12b7b7acd388e9ca8,My  Pantry,66e99466351d5306ad498442,Froot Loops,82071,82071.2,,,24,1 cup,,Fruit Loops Cereal,66e99466351d5306ad498442,,110
+670ab6d12b7b7acd388e9c8b,My  Pantry,66e99466351d5306ad498442,Frosted Flakes,63313,63313.7,,,25,1 cup,,Frosted Flakes Cereal,66e99466351d5306ad498442,,130
+670ab6d12b7b7acd388e9c7a,My  Pantry,66e99466351d5306ad498442,Special K with Red Berries,82071,82071.6,,,26,1 cup,,Special K with Berries,66e99466351d5306ad498442,,110
+670ab6d12b7b7acd388e9c84,My  Pantry,66e99466351d5306ad498442,Special K,63313,63313.11,,,27,1 cup,,Special K Cereal,66e99466351d5306ad498442,,120
+670ab6d12b7b7acd388e9c7f,My  Pantry,66e99466351d5306ad498442,Rice Chex,82071,82071.9,,,28,1 cup,,Rice Chex,66e99466351d5306ad498442,,110
+670ab6d12b7b7acd388e9de6,Fruit/Yogurt,66e99466351d5306ad498443,Low Fat Strawberry Yogurt,58254,58254.1,,,1,1/2 cup,,Low Fat Strawberry Yogurt,66e99466351d5306ad498443,,110
+670ab6d12b7b7acd388e9de1,Fruit/Yogurt,66e99466351d5306ad498443,Whole Milk Plain Greek Yogurt,63629,63629.1,,,2,1/2 cup,,Whole Milk Greek Yogurt,66e99466351d5306ad498443,,110
+670ab6d12b7b7acd388e9e53,Fruit/Yogurt,66e99466351d5306ad498443,Cubed Honeydew,1117,1117.0,,,3,1/4 cup,,Honeydew Melon,66e99466351d5306ad498443,,15
+670ab6d12b7b7acd388e9e56,Fruit/Yogurt,66e99466351d5306ad498443,Strawberries,63628,63628.2,,,4,1/4 cup,,Strawberries,66e99466351d5306ad498443,,20
+670ab6d12b7b7acd388e9de9,Fruit/Yogurt,66e99466351d5306ad498443,Grapefruit,1124,1124.0,,,5,1 half,,Ruby Red Grapefruit,66e99466351d5306ad498443,,35
+670ab6d12b7b7acd388e9e5e,Fruit/Yogurt,66e99466351d5306ad498443,Pumpkin Spice Oat Milk Overnight Oats,125835,125835.1,Savory overnight oats made with pumpkin puree and oat milk,,6,1/2 cup,,"Plain Oat Milk, Oatmeal, Pumpkin, Maple Syrup, Brown Flax Seeds, Pure Vanilla Extract (Vanilla Bean Extractives, Water, Alcohol), Salt",66e99466351d5306ad498443,,180
+670ab6d12b7b7acd388e9dbb,Condiments,66e99466351d5306ad498444,Ketchup,47957,47957.12,,,1,1 tbsp,,Ketchup,66e99466351d5306ad498444,,20
+670ab6d12b7b7acd388e9dd2,Condiments,66e99466351d5306ad498444,Yellow Mustard,47957,47957.10,,,2,1 tbsp,,Yellow Mustard,66e99466351d5306ad498444,,10
+670ab6d12b7b7acd388e9dee,Condiments,66e99466351d5306ad498444,Classic Barbecue Sauce,39576,39576.0,,,3,1 floz,,Barbecue Sauce,66e99466351d5306ad498444,,50
+670ab6d12b7b7acd388e9db1,Condiments,66e99466351d5306ad498444,Mayonnaise,47957,47957.20,,,4,1 tbsp,,Mayonnaise,66e99466351d5306ad498444,,90
+670ab6d12b7b7acd388e9db6,Condiments,66e99466351d5306ad498444,Hot Sauce,62302,62302.0,,,5,1/2 tsp,,"Hot Sauce (vinegar, red pepper, salt)",66e99466351d5306ad498444,,0
+670ab6d12b7b7acd388e9dc2,Condiments,66e99466351d5306ad498444,Sriracha Hot Chili Sauce,74417,74417.0,,,6,1 tsp,,Hot Chili Sauce,66e99466351d5306ad498444,,0
+670ab6d12b7b7acd388e9ddb,Condiments,66e99466351d5306ad498444,Cholula Hot Sauce,62302,62302.1,,,7,1 tsp,,Hot Sauce,66e99466351d5306ad498444,,0
+670ab6d12b7b7acd388e9dd6,Condiments,66e99466351d5306ad498444,Kosher Salt,63326,63326.0,,,8,1/8 tsp,,Salt,66e99466351d5306ad498444,,0
+670ab6d12b7b7acd388e9dcb,Condiments,66e99466351d5306ad498444,Black Pepper,63318,63318.0,,,9,1/8 tsp,,Black Pepper,66e99466351d5306ad498444,,0

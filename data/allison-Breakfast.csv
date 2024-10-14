@@ -1,0 +1,78 @@
+id,category_name,category_id,name,mrn,mrn_full,desc,webtrition_id,sort_order,portion,qty,ingredients,category_id,custom_allergens,calories
+670ab1f42b7b7acd385ea45d,Comfort 1,66e1fc2de45d43074be3a0de,Scrambled Eggs,2032,2032.23,,,1,1/2 cup,,"Liquid Egg, Canola Oil",66e1fc2de45d43074be3a0de,,200
+670ab1f42b7b7acd385ea467,Comfort 1,66e1fc2de45d43074be3a0de,Broccoli and Cheddar Egg Scramble,30880,30880.0,Broccoli and Cheddar Scramble,,2,5-1/2 ounce,,"Egg, Egg, Broccoli, Cheddar Cheese, Oil",66e1fc2de45d43074be3a0de,,240
+670ab1f42b7b7acd385ea47d,Comfort 1,66e1fc2de45d43074be3a0de,Pork Sausage Link,1125,1125.1,,,4,1 each,,Pork Sausage,66e1fc2de45d43074be3a0de,,200
+670ab1f42b7b7acd385ea480,Comfort 2,66e1fc2de45d43074be3a0db,Tater Tots,1178,1178.0,Crispy tater puffs,,2,1/2 cup,,Tater Tot Potatoes,66e1fc2de45d43074be3a0db,,140
+670ab1f42b7b7acd385ea46b,Comfort 2,66e1fc2de45d43074be3a0db,Chocolate Chip Pancakes,616,616.22,Served with strawberries and maple flavored syrup.,,3,2 each,,"Water, Buttermilk Pancake Mix, Semi Sweet Chocolate",66e1fc2de45d43074be3a0db,,320
+670ab1f42b7b7acd385ea472,Comfort 2,66e1fc2de45d43074be3a0db,Steamed Green Beans ,102964,102964.0,"Steamed, lightly seasoned green beans ",,4,1/2 cup,,"Green Beans, Canola Oil, Salt",66e1fc2de45d43074be3a0db,,80
+670ab1f42b7b7acd385ea451,Rooted 1,66e1fc2de45d43074be3a0dc,"Tofu Scramble, Salsa",79500,79500.0,,,1,1-1/2 cup,,"Tofu, Avocado, Onions, Mushrooms, Tomatoes, Jalapeno, Garlic, Lime, Lemon Juice, Canola Oil, Turmeric, Serrano Pepper, Cilantro, Salt, Garlic",66e1fc2de45d43074be3a0dc,,420
+670ab1f42b7b7acd385ea455,Rooted 1,66e1fc2de45d43074be3a0dc,"Vegan Crumbled ""Chorizo""",84392,84392.2,,,2,1 ounce,,Meatless Chorizo,66e1fc2de45d43074be3a0dc,,70
+670ab1f42b7b7acd385ea448,Rooted 1,66e1fc2de45d43074be3a0dc,Soy Milk Cinnamon French Toast,101631,101631.2,,,3,1 slice,,"Texas Bread, Soy Milk, Gluten Allergen Free Pancake and Waffle Mix^, Canola Oil, Pancake & Waffle Syrup, Cinnamon, Salt",66e1fc2de45d43074be3a0dc,,310
+670ab1f42b7b7acd385ea4de,Fruit & Yogurt,66e1fc2de45d43074be3a0e2,Cubed Cantaloupe,1175,1175.0,,,1,2 ounce,,Cantaloupe,66e1fc2de45d43074be3a0e2,,20
+670ab1f42b7b7acd385ea4b5,Fruit & Yogurt,66e1fc2de45d43074be3a0e2,Cubed Pineapple,31969,31969.0,,,2,1/2 cup,,Pineapple,66e1fc2de45d43074be3a0e2,,40
+670ab1f42b7b7acd385ea4cf,Fruit & Yogurt,66e1fc2de45d43074be3a0e2,2% Greek Plain Yogurt,65282,65282.1,,,3,4 ounce,,Plain Yogurt,66e1fc2de45d43074be3a0e2,,90
+670ab1f42b7b7acd385ea4ee,Fruit & Yogurt,66e1fc2de45d43074be3a0e2,Low Fat Vanilla Yogurt,4592,4592.0,,,4,4 ounce,,Low Fat Vanilla Yogurt,66e1fc2de45d43074be3a0e2,,70
+670ab1f42b7b7acd385ea4e6,Fruit & Yogurt,66e1fc2de45d43074be3a0e2,Cubed Honeydew,1117,1117.0,,,5,2 ounce,,Honeydew Melon,66e1fc2de45d43074be3a0e2,,20
+670ab1f42b7b7acd385ea4d6,Fruit & Yogurt,66e1fc2de45d43074be3a0e2,Low Fat Strawberry Yogurt,58254,58254.1,,,6,4 ounce,,Low Fat Strawberry Yogurt,66e1fc2de45d43074be3a0e2,,110
+670ab1f42b7b7acd385ea4ad,Fruit & Yogurt,66e1fc2de45d43074be3a0e2,Oats 'n Honey Granola,63400,63400.1,,,7,1 tbsp,,Granola,66e1fc2de45d43074be3a0e2,,20
+670ab1f42b7b7acd385ea594,Fruit & Yogurt,66e1fc2de45d43074be3a0e2,Raisins,62348,62348.0,,,8,1 tbsp,,Raisins,66e1fc2de45d43074be3a0e2,,25
+670ab1f42b7b7acd385ea587,Fruit & Yogurt,66e1fc2de45d43074be3a0e2,Light Cream Cheese,79884,79884.0,,,9,1 tbsp,,Neufchatel Cream Cheese,66e1fc2de45d43074be3a0e2,,40
+670ab1f42b7b7acd385ea49c,Fruit & Yogurt,66e1fc2de45d43074be3a0e2,Sunflower Spread,63396,63396.1,,,10,1 tsp,,Sunflower Seed Butter,66e1fc2de45d43074be3a0e2,,35
+670ab1f42b7b7acd385ea584,Fruit & Yogurt,66e1fc2de45d43074be3a0e2,Grape Jelly,63393,63393.0,,,11,1 tbsp,,Grape Jelly,66e1fc2de45d43074be3a0e2,,50
+670ab1f42b7b7acd385ea4ca,Fruit & Yogurt,66e1fc2de45d43074be3a0e2,Butter,63397,63397.1,,,13,1 tbsp,,Butter,66e1fc2de45d43074be3a0e2,,100
+670ab1f42b7b7acd385ea57d,Fruit & Yogurt,66e1fc2de45d43074be3a0e2,strawberry cream cheese,66197,66197.0,strawberry preserves blended in cream cheese,,14,2 tbsp,,"Cream Cheese, Strawberry Preserves",66e1fc2de45d43074be3a0e2,,110
+670ab1f42b7b7acd385ea3f7,Flame 1,66e1fc2de45d43074be3a0d9,Eggs,73988,73988.0,,,1,3 floz,,Liquid Egg,66e1fc2de45d43074be3a0d9,,130
+670ab1f42b7b7acd385ea3f2,Flame 1,66e1fc2de45d43074be3a0d9,Egg Whites,63110,63110.0,two egg whites made-to-order,,2,3 floz,,Liquid Egg White,66e1fc2de45d43074be3a0d9,,45
+670ab1f42b7b7acd385ea400,Flame 1,66e1fc2de45d43074be3a0d9,Chopped Spinach,47960,47960.3,,,3,1 ounce,,Spinach,66e1fc2de45d43074be3a0d9,,5
+670ab1f42b7b7acd385ea3fc,Flame 1,66e1fc2de45d43074be3a0d9,Chopped Broccoli ,66238,66238.0,,,4,1 ounce,,Broccoli,66e1fc2de45d43074be3a0d9,,10
+670ab1f42b7b7acd385ea440,Flame 2,66e1fc2de45d43074be3a0da,Shredded Sharp Cheddar Cheese,3664,3664.0,,,1,1 tbsp,,Sharp Cheddar Cheese,66e1fc2de45d43074be3a0da,,60
+670ab1f42b7b7acd385ea418,Flame 2,66e1fc2de45d43074be3a0da,Diced Bacon,14901,14901.0,,,2,1 tbsp,,Bacon,66e1fc2de45d43074be3a0da,,45
+670ab1f42b7b7acd385ea410,Flame 2,66e1fc2de45d43074be3a0da,Turkey Sausage Link,57570,57570.0,,,3,1 each,,Turkey Sausage,66e1fc2de45d43074be3a0da,,35
+670ab1f42b7b7acd385ea40b,Flame 2,66e1fc2de45d43074be3a0da,Diced Smoked Ham,62288,62288.1,,,4,1 tbsp,,Ham,66e1fc2de45d43074be3a0da,,15
+670ab1f42b7b7acd385ea43b,Flame 3,66e1fc2de45d43074be3a0df,Chopped Green Bell Pepper,63065,63065.0,,,1,1 tbsp,,Green Bell Peppers,66e1fc2de45d43074be3a0df,,0
+670ab1f42b7b7acd385ea424,Flame 3,66e1fc2de45d43074be3a0df,Sliced Mushrooms,62338,62338.0,,,2,1 tbsp,,Mushrooms,66e1fc2de45d43074be3a0df,,0
+670ab1f42b7b7acd385ea42d,Flame 3,66e1fc2de45d43074be3a0df, Diced Onions,13404,13404.3,,,3,1 tbsp,,Onions,66e1fc2de45d43074be3a0df,,0
+670ab1f42b7b7acd385ea436,Flame 3,66e1fc2de45d43074be3a0df,Chopped Tomatoes,47955,47955.6,,,4,1 tbsp,,Tomatoes,66e1fc2de45d43074be3a0df,,0
+670ab1f42b7b7acd385ea3d5,Bakery-Dessert,66e1fc2de45d43074be3a0d8,Peach Oatmeal Crisp,165863,165863.0,Brown sugar and cinnamon oat streusel baked peach crisp,,1,1/2 cup,,"Peaches, Gluten Free Oats, Brown Sugar (sugar, cane syrups), Canola Oil, Sugar, Cornstarch, Lemon Juice, Cinnamon, Salt",66e1fc2de45d43074be3a0d8,,270
+670ab1f42b7b7acd385ea3de,Bakery-Dessert,66e1fc2de45d43074be3a0d8,Small Blueberry Scone,75885,75885.3,,,2,1 each,,"All Purpose Flour, Blueberries, Whole Milk, Unsalted Butter, Egg, Granulated Sugar, Water, Baking Powder, Salt, Lemon",66e1fc2de45d43074be3a0d8,,90
+670ab1f42b7b7acd385ea3e4,Bakery-Dessert,66e1fc2de45d43074be3a0d8,Croissant,9050,9050.0,,,3,1 each,,Croissant,66e1fc2de45d43074be3a0d8,,100
+670ab1f42b7b7acd385ea3eb,Bakery-Dessert,66e1fc2de45d43074be3a0d8,Corn Muffin,48754,48754.2,,,4,1 each,,"Corn Muffin Batter, Oil, Cornflakes Cereal",66e1fc2de45d43074be3a0d8,,420
+670ab1f42b7b7acd385ea526,Pantry 1,66e1fc2de45d43074be3a0e0,English Muffin,63633,63633.0,,,1,1 each,,English Muffin,66e1fc2de45d43074be3a0e0,,150
+670ab1f42b7b7acd385ea548,Pantry 1,66e1fc2de45d43074be3a0e0,White Bread,1251,1251.0,,,2,2 slice,,White Bread,66e1fc2de45d43074be3a0e0,,150
+670ab1f42b7b7acd385ea53f,Pantry 1,66e1fc2de45d43074be3a0e0,Whole Wheat Bread,1390,1390.6,,,3,2 slice,,Whole Wheat Bread,66e1fc2de45d43074be3a0e0,,150
+670ab1f42b7b7acd385ea537,Pantry 1,66e1fc2de45d43074be3a0e0,Plain Bagel,63651,63651.6,,,4,1 each,,Plain Bagel,66e1fc2de45d43074be3a0e0,,300
+670ab1f42b7b7acd385ea51e,Pantry 1,66e1fc2de45d43074be3a0e0,Cinnamon Raisin Bread,62272,62272.13,,,5,1 slice,,Raisin Bread,66e1fc2de45d43074be3a0e0,,70
+670ab1f42b7b7acd385ea509,Pantry 1,66e1fc2de45d43074be3a0e0,Frosted Flakes,63313,63313.7,,,6,1 cup,,Frosted Flakes Cereal,66e1fc2de45d43074be3a0e0,,130
+670ab1f42b7b7acd385ea4a6,Pantry 1,66e1fc2de45d43074be3a0e0,Froot Loops,82071,82071.2,,,7,1 cup,,Fruit Loops Cereal,66e1fc2de45d43074be3a0e0,,110
+670ab1f42b7b7acd385ea512,Pantry 1,66e1fc2de45d43074be3a0e0,Cinnamon Toast Crunch,82256,82256.3,,,8,1 cup,,Cinnamon Toast Crunch,66e1fc2de45d43074be3a0e0,,170
+670ab1f42b7b7acd385ea48f,Pantry 1,66e1fc2de45d43074be3a0e0,Raisin Bran,82071,82071.5,,,9,1 cup,,Raisin Bran,66e1fc2de45d43074be3a0e0,,190
+670ab1f42b7b7acd385ea48e,Pantry 1,66e1fc2de45d43074be3a0e0,Special K,63313,63313.11,,,10,1 cup,,Special K Cereal,66e1fc2de45d43074be3a0e0,,120
+670ab1f42b7b7acd385ea551,Pantry 1,66e1fc2de45d43074be3a0e0,Banana,1318,1318.0,,,11,1 each,,Banana,66e1fc2de45d43074be3a0e0,,110
+670ab1f42b7b7acd385ea55d,Pantry 1,66e1fc2de45d43074be3a0e0,Orange,64062,64062.0,,,12,1 each,,Orange,66e1fc2de45d43074be3a0e0,,60
+670ab1f42b7b7acd385ea52f,Pantry 1,66e1fc2de45d43074be3a0e0,Apple,1638,1638.0,,,13,1 each,,Apples,66e1fc2de45d43074be3a0e0,,70
+670ab1f42b7b7acd385ea4f7,Gluten Free Pantry,66e1fc2de45d43074be3a0e1,Rice Krispies,63313,63313.8,,,1,1 cup,,Rice Krispies Cereal,66e1fc2de45d43074be3a0e1,,100
+670ab1f42b7b7acd385ea4be,Gluten Free Pantry,66e1fc2de45d43074be3a0e1,Cheerios,63313,63313.2,,,2,1 cup,,Cheerios Cereal,66e1fc2de45d43074be3a0e1,,100
+670ab1f42b7b7acd385ea501,Gluten Free Pantry,66e1fc2de45d43074be3a0e1,Lucky Charms,82256,82256.4,,,3,1 cup,,Lucky Charms Cereal,66e1fc2de45d43074be3a0e1,,140
+670ab1f42b7b7acd385ea560,Gluten Free Pantry,66e1fc2de45d43074be3a0e1,Udi's Hamburger Bun,1390,1390.5,,,4,1 each,,Gluten Free Hamburger Bun,66e1fc2de45d43074be3a0e1,,240
+670ab1f42b7b7acd385ea569,Gluten Free Pantry,66e1fc2de45d43074be3a0e1,Udi's White Bread,1390,1390.3,,,5,1 slice,,Udi's Bread,66e1fc2de45d43074be3a0e1,,150
+670ab1f42b7b7acd385ea571,Gluten Free Pantry,66e1fc2de45d43074be3a0e1,Udi's Plain Bagel,1390,1390.4,,,6,1 each,,Udi's Bagel,66e1fc2de45d43074be3a0e1,,310
+670ab1f42b7b7acd385ea59d,Soup,66e1fc2de45d43074be3a0e3,Oatmeal,103603,103603.0,,,1,1 ladle-4oz,,"Water, Oatmeal, Salt",66e1fc2de45d43074be3a0e3,,90
+670ab1f42b7b7acd385ea5a5,Soup,66e1fc2de45d43074be3a0e3,"Quinoa, Apricot, Vanilla Cereal",67211,67211.1,,,2,8 floz,,"Water, Quinoa, Apricots, Pure Vanilla Extract (Vanilla Bean Extractives, Water, Alcohol), Cinnamon",66e1fc2de45d43074be3a0e3,,160
+670ab1f42b7b7acd385ea5f7,Beverage,66e1fc2de45d43074be3a0e4,Orange Juice,52456,52456.0,,,1,16 floz,,Orange Juice,66e1fc2de45d43074be3a0e4,,230
+670ab1f42b7b7acd385ea624,Beverage,66e1fc2de45d43074be3a0e4,Apple Juice,52459,52459.0,,,2,16 floz,,Apple Juice,66e1fc2de45d43074be3a0e4,,230
+670ab1f42b7b7acd385ea5b7,Beverage,66e1fc2de45d43074be3a0e4,Cranberry Juice,81277,81277.0,,,3,16 floz,,"Waters, Cranberry Juice",66e1fc2de45d43074be3a0e4,,210
+670ab1f42b7b7acd385ea60a,Beverage,66e1fc2de45d43074be3a0e4,Coffee,1319,1319.0,,,4,8 ounce,,"Coffee, Water",66e1fc2de45d43074be3a0e4,,0
+670ab1f42b7b7acd385ea617,Beverage,66e1fc2de45d43074be3a0e4,Decaf Coffee,16603,16603.0,,,5,8 floz,,"Water, Decaf Coffee",66e1fc2de45d43074be3a0e4,,0
+670ab1f42b7b7acd385ea62e,Beverage,66e1fc2de45d43074be3a0e4,Hot Tea,1343,1343.0,,,6,8 ounce,,"Water, Tea",66e1fc2de45d43074be3a0e4,,0
+670ab1f42b7b7acd385ea5d8,Beverage,66e1fc2de45d43074be3a0e4,Mountain Berry Powerade,82373,82373.5,,,7,16 floz,,Mountain Berry Powerade,66e1fc2de45d43074be3a0e4,,120
+670ab1f42b7b7acd385ea5ae,Beverage,66e1fc2de45d43074be3a0e4,Diet Coke,80871,80871.0,,,8,1 floz,,Diet Cola Syrup,66e1fc2de45d43074be3a0e4,,0
+670ab1f42b7b7acd385ea5d4,Beverage,66e1fc2de45d43074be3a0e4,Lemonade,85814,85814.4,,,9,16 floz,,Lemonade,66e1fc2de45d43074be3a0e4,,90
+670ab1f42b7b7acd385ea5f0,Beverage,66e1fc2de45d43074be3a0e4,Coca-Cola,80448,80448.0,,,10,16 floz,,Cola Syrup,66e1fc2de45d43074be3a0e4,,210
+670ab1f42b7b7acd385ea61d,Beverage,66e1fc2de45d43074be3a0e4,Barq's Root Beer,80888,80888.0,,,12,16 floz,,Root Beer Syrup,66e1fc2de45d43074be3a0e4,,230
+670ab1f42b7b7acd385ea645,Beverage,66e1fc2de45d43074be3a0e4,Sweet Iced Tea,87452,87452.6,,,13,16 floz,,Sweet Iced Tea,66e1fc2de45d43074be3a0e4,,180
+670ab1f42b7b7acd385ea5fc,Beverage,66e1fc2de45d43074be3a0e4,Sprite,80876,80876.0,,,14,1 floz,,Sprite Syrup,66e1fc2de45d43074be3a0e4,,15
+670ab1f42b7b7acd385ea5be,Beverage,66e1fc2de45d43074be3a0e4,"Milk, Skim",52470,52470.0,Nonfat,,15,16 floz,,Fat Free Milk,66e1fc2de45d43074be3a0e4,,170
+670ab1f42b7b7acd385ea611,Beverage,66e1fc2de45d43074be3a0e4,"Milk, Lowfat, 1%",52467,52467.0,,,16,16 floz,,Lowfat Milk,66e1fc2de45d43074be3a0e4,,200
+670ab1f42b7b7acd385ea638,Beverage,66e1fc2de45d43074be3a0e4,"Chocolate Milk, Low Fat 1%",52465,52465.0,,,17,16 floz,,Low Fat Chocolate Milk,66e1fc2de45d43074be3a0e4,,380
+670ab1f42b7b7acd385ea5e4,Beverage,66e1fc2de45d43074be3a0e4,"Milk, Soy, Chocolate, 8 fl oz",20462,20462.0,,,18,1 each,,"Soymilk (Filtered Water, Soybeans), Cane Sugar, Cocoa (Processed with Alkali), Vitamin and Mineral Blend (Calcium Carbonate, Vitamin A Palmitate, Vitamin D2, Riboflavin [B2], Vitamin B12), Sea Salt, Gellan Gum, Ascorbic Acid (To Protect Freshness), Natural Flavor. Contains Soy.",66e1fc2de45d43074be3a0e4,,170
+670ab1f42b7b7acd385ea5c6,Beverage,66e1fc2de45d43074be3a0e4,"Milk, Soy, Vanilla, 8 fl oz",20463,20463.0,,,19,1 each,,"Soymilk (Filtered Water, Soybeans), Cane Sugar, Vitamin and Mineral Blend (Calcium Carbonate, Vitamin A Palmitate, Vitamin D2, Riboflavin [B2], Vitamin B12), Sea Salt, Gellan Gum, Natural Flavor, Ascorbic Acid (To Protect Freshness). Contains Soy.",66e1fc2de45d43074be3a0e4,,150
